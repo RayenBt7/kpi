@@ -1,12 +1,19 @@
-﻿const sql = require('mssql');
+const sql = require('mssql');
+
+// Tedious expects a named instance separately from its host name.
+// DB_SERVER accepts either `host` or `host\\instance`; DB_INSTANCE overrides it.
+const configuredServer = process.env.DB_SERVER || 'LAPTOP-H585I2BV\\SQLEXPRESS02';
+const [serverHost, serverInstance] = configuredServer.split('\\', 2);
+const instanceName = process.env.DB_INSTANCE || serverInstance;
 
 const baseConfig = {
-    server: process.env.DB_SERVER || 'LAPTOP-H585I2BV\\SQLEXPRESS02',
+    server: serverHost,
     user: process.env.DB_USER || 'sa',
     password: process.env.DB_PASSWORD || 'rayen123',
     options: {
         encrypt: false,
-        trustServerCertificate: true
+        trustServerCertificate: true,
+        ...(instanceName ? { instanceName } : {})
     },
     pool: {
         max: 10,
@@ -40,7 +47,7 @@ const readOnlyConfig = {
 const poolPromise = new sql.ConnectionPool(config)
     .connect()
     .then((pool) => {
-        console.log('Connected to SQL Server successfully. ✅');
+        console.log('Connected to SQL Server successfully. ?');
         return pool;
     })
     .catch((err) => {
@@ -51,7 +58,7 @@ const poolPromise = new sql.ConnectionPool(config)
 const dwPoolPromise = new sql.ConnectionPool(dwConfig)
     .connect()
     .then((pool) => {
-        console.log('Connected to Data Warehouse successfully. ✅');
+        console.log('Connected to Data Warehouse successfully. ?');
         return pool;
     })
     .catch((err) => {
@@ -61,7 +68,7 @@ const dwPoolPromise = new sql.ConnectionPool(dwConfig)
 const readOnlyPoolPromise = new sql.ConnectionPool(readOnlyConfig)
     .connect()
     .then((pool) => {
-        console.log('Connected to SQL Server read-only pool successfully. ✅');
+        console.log('Connected to SQL Server read-only pool successfully. ?');
         return pool;
     })
     .catch((err) => {
