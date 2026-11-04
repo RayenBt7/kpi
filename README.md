@@ -35,7 +35,7 @@ Frontend (React) ↔ Backend (Node/Express + SQL Server) ↔ ML Pipeline (Python
 ## Quick Start
 
 ```
-cd backend && npm start
-cd frontend && npm run dev
-cd ml && python -m ml.run_nightly
+cd backend ; npm start
+cd frontend ; npm run dev
+cd ml ; python -m ml.run_nightly
 ```
