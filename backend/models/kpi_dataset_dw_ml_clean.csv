@@ -1,0 +1,1801 @@
+Indicateur;Processus;Designation;Annee;Mois;Objectif;Realisation;Ecart;taux_realisation;is_conforme;lag_1;lag_2;lag_3;rolling_mean;rolling_std;tendance;indicateur_enc;plan_action_open_count;plan_action_late_count;Signe;Unite
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;1;80;60;-20;75;0;60;60;60;60;0;0;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;2;80;75;-5;93.75;0;60;60;60;60;0;0;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;3;80;86;6;107.5;1;75;60;60;65;7.071068;15;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;4;80;90;10;112.5;1;86;75;60;73.666667;10.656245;11;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;5;80;92;12;115;1;90;86;75;83.666667;6.342099;4;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;6;80;94;14;117.5;1;92;90;86;89.333333;2.494438;2;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;7;80;90;10;112.5;1;94;92;90;92;1.632993;2;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;8;80;95;15;118.75;1;90;94;92;92;1.632993;-4;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;9;80;80;0;100;1;95;90;94;93;2.160247;5;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;10;80;88;8;110;1;80;95;90;88.333333;6.236096;-15;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;11;80;88;8;110;1;88;80;95;87.666667;6.128259;8;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2022;12;80;90;10;112.5;1;88;88;80;85.333333;3.771236;0;11;0;0;≥;%
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;1;0;0;0;;1;90;88;88;88.666667;0.942809;2;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;2;0;0;0;;1;0;90;88;59.333333;41.962947;-90;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;3;0;0;0;;1;0;0;90;30;42.426407;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;4;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;5;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;6;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;7;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;8;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;9;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;10;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;11;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2024;12;0;0;0;;1;0;0;0;0;0;0;11;0;0;=;
+c10_kunden;C010 Commercial;Satisfaction de clients;2026;1;96.6667;100;3.3333;103.44824;1;0;0;0;0;0;0;11;0;0;;
+c10_kunden;C010 Commercial;Satisfaction de clients;2026;2;96.6667;90;-6.6667;93.103416;0;100;0;0;33.333333;47.140452;100;11;0;0;;
+c10_kunden;C010 Commercial;Satisfaction de clients;2026;3;96.6667;91;-5.6667;94.137899;0;90;100;0;63.333333;44.969125;-10;11;1;1;;
+c10_kunden;C010 Commercial;Satisfaction de clients;2026;4;96.6667;150;53.3333;155.17236;1;91;90;100;93.666667;4.496913;1;11;0;0;;
+c10_kunden;C010 Commercial;Satisfaction de clients;2026;5;100;40;-60;40;0;150;91;90;110.333333;28.05154;59;11;1;0;;
+c10_kunden;C010 Commercial;Satisfaction de clients;2026;6;100;;;;;40;150;91;93.666667;44.946882;-110;11;0;0;;
+c10_neuBD;C010 Commercial;Projet;2022;1;100;110.84;10.84;110.84;0;110.84;110.84;110.84;110.84;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;2;100;110.84;10.84;110.84;0;110.84;110.84;110.84;110.84;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;3;100;100;0;100;1;110.84;110.84;110.84;110.84;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;4;100;100;0;100;1;100;110.84;110.84;107.226667;5.110025;-10.84;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;5;100;100;0;100;1;100;100;110.84;103.613333;5.110025;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;6;100;100;0;100;1;100;100;100;100;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;7;100;100;0;100;1;100;100;100;100;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;8;100;100;0;100;1;100;100;100;100;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;9;100;100;0;100;1;100;100;100;100;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;10;100;100;0;100;1;100;100;100;100;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;11;100;100;0;100;1;100;100;100;100;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2022;12;100;100;0;100;1;100;100;100;100;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2023;1;;;;;;100;100;100;100;0;0;12;13;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;1;0;0;0;;1;100;100;100;100;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;2;0;0;0;;1;0;100;100;66.666667;47.140452;-100;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;3;0;0;0;;1;0;0;100;33.333333;47.140452;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;4;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;5;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;6;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;7;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;8;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;9;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;10;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;11;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2024;12;0;0;0;;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;1;98;98;0;100;1;0;0;0;0;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;2;98;98;0;100;1;98;0;0;32.666667;46.197643;98;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;3;98;98;0;100;1;98;98;0;65.333333;46.197643;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;4;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;5;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;6;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;7;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;8;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;9;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;10;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;11;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2025;12;98;98;0;100;1;98;98;98;98;0;0;12;0;0;=;%
+c10_neuBD;C010 Commercial;Projet;2026;1;100;100;0;100;1;98;98;98;98;0;0;12;0;0;≥;
+c10_neuBD;C010 Commercial;Projet;2026;2;100;90;-10;90;0;100;98;98;98.666667;0.942809;2;12;0;0;≥;
+c10_neuBD;C010 Commercial;Projet;2026;3;100;90;-10;90;0;90;100;98;96;4.320494;-10;12;0;0;≥;
+c10_neuBD;C010 Commercial;Projet;2026;4;160;130;-30;81.25;0;90;90;100;93.333333;4.714045;0;12;0;0;≥;
+c10_neuBD;C010 Commercial;Projet;2026;5;150;160;10;106.666667;1;130;90;90;103.333333;18.856181;40;12;0;0;≥;
+c10_neuBD;C010 Commercial;Projet;2026;6;150;152.95;2.95;101.966667;1;160;130;90;126.666667;28.674418;30;12;0;0;≥;
+c20_client;;;2024;1;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2024;2;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2024;3;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2024;4;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2024;5;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2024;6;97;85;-12;87.628866;0;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2024;7;97;100;3;103.092784;1;85;100;100;95;7.071068;-15;13;0;0;;
+c20_client;;;2024;8;97;100;3;103.092784;1;100;85;100;95;7.071068;15;13;0;0;;
+c20_client;;;2024;9;97;100;3;103.092784;1;100;100;85;95;7.071068;0;13;0;0;;
+c20_client;;;2024;10;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2024;11;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2024;12;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2025;1;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2025;2;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2025;3;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2025;4;97;100;3;103.092784;1;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2025;5;97;0;-97;0;0;100;100;100;100;0;0;13;0;0;;
+c20_client;;;2025;6;97;0;-97;0;0;0;100;100;66.666667;47.140452;-100;13;0;0;;
+c20_client;;;2025;7;97;0;-97;0;0;0;0;100;33.333333;47.140452;0;13;0;0;;
+c20_client;;;2025;8;97;0;-97;0;0;0;0;0;0;0;0;13;0;0;;
+c20_client;;;2025;9;97;0;-97;0;0;0;0;0;0;0;0;13;0;0;;
+c20_client;;;2025;10;97;0;-97;0;0;0;0;0;0;0;0;13;0;0;;
+c20_client;;;2025;11;97;0;-97;0;0;0;0;0;0;0;0;13;0;0;;
+c20_client;;;2025;12;97;0;-97;0;0;0;0;0;0;0;0;13;0;0;;
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;1;75;80;5;106.666667;1;80;80;80;80;0;0;14;1;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;2;75;80;5;106.666667;1;80;80;80;80;0;0;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;3;75;85;10;113.333333;1;80;80;80;80;0;0;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;4;75;76;1;101.333333;1;85;80;80;81.666667;2.357023;5;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;5;75;88;13;117.333333;1;76;85;80;80.333333;3.681787;-9;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;6;75;74;-1;98.666667;0;88;76;85;83;5.09902;12;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;7;75;72;-3;96;0;74;88;76;79.333333;6.182412;-14;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;8;75;75;0;100;1;72;74;88;78;7.118052;-2;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;9;75;79;4;105.333333;1;75;72;74;73.666667;1.247219;3;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;10;75;91;16;121.333333;1;79;75;72;75.333333;2.867442;4;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;11;75;88;13;117.333333;1;91;79;75;81.666667;6.798693;12;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2022;12;75;80;5;106.666667;1;88;91;79;86;5.09902;-3;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2023;1;;;;;;80;88;91;86.333333;4.642796;-8;14;1;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;1;1.5;3.77;2.27;251.333333;1;80;88;91;86.333333;4.642796;-8;14;1;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;2;1.5;0;-1.5;0;0;3.77;80;88;57.256667;37.961539;-76.23;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;3;1.5;0;-1.5;0;0;0;3.77;80;27.923333;36.855914;-3.77;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;4;1.5;0.42;-1.08;28;0;0;0;3.77;1.256667;1.777195;0;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;5;1.5;0.57;-0.93;38;0;0.42;0;0;0.14;0.19799;0.42;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;6;1.5;0.3;-1.2;20;0;0.57;0.42;0;0.33;0.241247;0.15;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;7;1;0;-1;0;0;0.3;0.57;0.42;0.43;0.110454;-0.27;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;8;1;0.03;-0.97;3;0;0;0.3;0.57;0.29;0.232809;-0.3;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;9;1;0.05;-0.95;5;0;0.03;0;0.3;0.11;0.134907;0.03;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;10;1;0.03;-0.97;3;0;0.05;0.03;0;0.026667;0.020548;0.02;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;11;1;0.05;-0.95;5;0;0.03;0.05;0.03;0.036667;0.009428;-0.02;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2024;12;1;0;-1;0;0;0.05;0.03;0.05;0.043333;0.009428;0.02;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;1;1;0;-1;0;0;0;0.05;0.03;0.026667;0.020548;-0.05;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;2;1;18.18;17.18;1818;1;0;0;0.05;0.016667;0.02357;0;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;3;1;14.28;13.28;1428;1;18.18;0;0;6.06;8.570134;18.18;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;4;1;11.76;10.76;1176;1;14.28;18.18;0;10.82;7.814806;-3.9;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;5;1;22.47;21.47;2247;1;11.76;14.28;18.18;14.74;2.64106;-2.52;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;6;1;19.27;18.27;1927;1;22.47;11.76;14.28;16.17;4.572024;10.71;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;7;1;0;-1;0;0;19.27;22.47;11.76;17.833333;4.488803;-3.2;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;8;1;0;-1;0;0;0;19.27;22.47;13.913333;9.92457;-19.27;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;9;1;0;-1;0;0;0;0;19.27;6.423333;9.083965;0;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;10;1;0;-1;0;0;0;0;0;0;0;0;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;11;1;0;-1;0;0;0;0;0;0;0;0;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2025;12;1;0;-1;0;0;0;0;0;0;0;0;14;0;0;INF;%
+c20_dechint;C020 Développement de produits;Déchet Interne;2026;1;90;50;-40;55.555556;0;0;0;0;0;0;0;14;0;0;;
+c20_dechint;C020 Développement de produits;Déchet Interne;2026;2;90;60;-30;66.666667;0;50;0;0;16.666667;23.570226;50;14;0;0;;
+c20_dechint;C020 Développement de produits;Déchet Interne;2026;3;90;55;-35;61.111111;0;60;50;0;36.666667;26.246693;10;14;0;0;;
+c20_dechint;C020 Développement de produits;Déchet Interne;2026;4;90;89;-1;98.888889;0;55;60;50;55;4.082483;-5;14;0;0;;
+c20_dechint;C020 Développement de produits;Déchet Interne;2026;5;90;93;3;103.333333;1;89;55;60;68;14.988885;34;14;0;0;;
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;1;70;60;-10;85.714286;0;60;60;60;60;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;2;70;70;0;100;1;60;60;60;60;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;3;70;70;0;100;1;70;60;60;63.333333;4.714045;10;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;4;70;70;0;100;1;70;70;60;66.666667;4.714045;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;5;70;70;0;100;1;70;70;70;70;0;0;15;1;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;6;70;75;5;107.142857;1;70;70;70;70;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;7;70;75;5;107.142857;1;75;70;70;71.666667;2.357023;5;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;8;70;75;5;107.142857;1;75;75;70;73.333333;2.357023;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;9;70;75;5;107.142857;1;75;75;75;75;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;10;70;80;10;114.285714;1;75;75;75;75;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;11;70;80;10;114.285714;1;80;75;75;76.666667;2.357023;5;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2022;12;70;80;10;114.285714;1;80;80;75;78.333333;2.357023;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2023;6;;;;;;80;80;80;80;0;0;15;1;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;1;97;100;3;103.092784;1;80;80;80;80;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;2;97;100;3;103.092784;1;100;80;80;86.666667;9.42809;20;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;3;97;100;3;103.092784;1;100;100;80;93.333333;9.42809;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;4;97;50;-47;51.546392;0;100;100;100;100;0;0;15;1;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;5;97;60;-37;61.85567;0;50;100;100;83.333333;23.570226;-50;15;1;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;6;97;97;0;100;1;60;50;100;70;21.602469;10;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;7;97;100;3;103.092784;1;97;60;50;69;20.215506;37;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;8;97;100;3;103.092784;1;100;97;60;85.666667;18.190352;3;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;9;97;100;3;103.092784;1;100;100;97;99;1.414214;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;10;97;100;3;103.092784;1;100;100;100;100;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;11;97;97;0;100;1;100;100;100;100;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2024;12;97;97;0;100;1;97;100;100;99;1.414214;-3;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;1;90;100;10;111.111111;1;97;97;100;98;1.414214;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;2;90;100;10;111.111111;1;100;97;97;98;1.414214;3;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;3;90;97;7;107.777778;1;100;100;97;99;1.414214;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;4;90;100;10;111.111111;1;97;100;100;99;1.414214;-3;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;5;90;100;10;111.111111;1;100;97;100;99;1.414214;3;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;6;90;92;2;102.222222;1;100;100;97;99;1.414214;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;7;90;0;-90;0;0;92;100;100;97.333333;3.771236;-8;15;1;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;8;90;0;-90;0;0;0;92;100;64;45.372532;-92;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;9;90;0;-90;0;0;0;0;92;30.666667;43.369216;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;10;90;0;-90;0;0;0;0;0;0;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;11;90;0;-90;0;0;0;0;0;0;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2025;12;90;0;-90;0;0;0;0;0;0;0;0;15;0;0;SUPP;%
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2026;1;95;;;;;0;0;0;0;0;0;15;0;0;;
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2026;2;96;;;;;0;0;0;0;0;0;15;0;0;;
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2026;3;95;;;;;0;0;0;0;0;0;15;0;0;;
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2026;4;95;;;;;0;0;0;0;0;0;15;0;0;;
+c20_projet;C020 Développement de produits;Taux de Respect des délais projet;2026;5;95;;;;;0;0;0;0;0;0;15;0;0;;
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;1;320;320;0;100;1;320;320;320;320;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;2;320;320;0;100;1;320;320;320;320;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;3;320;320;0;100;1;320;320;320;320;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;4;320;310;-10;96.875;0;320;320;320;320;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;5;320;300;-20;93.75;0;310;320;320;316.666667;4.714045;-10;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;6;320;320;0;100;1;300;310;320;310;8.164966;-10;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;7;320;320;0;100;1;320;300;310;310;8.164966;20;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;8;320;320;0;100;1;320;320;300;313.333333;9.42809;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;9;320;320;0;100;1;320;320;320;320;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;10;320;320;0;100;1;320;320;320;320;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;11;320;320;0;100;1;320;320;320;320;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2022;12;320;300;-20;93.75;0;320;320;320;320;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;1;0;0;0;;1;300;320;320;313.333333;9.42809;-20;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;2;0;0;0;;1;0;300;320;206.666667;146.363323;-300;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;3;0;0;0;;1;0;0;300;100;141.421356;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;4;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;5;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;6;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;7;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;8;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;9;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;10;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;11;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2024;12;0;0;0;;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;1;1;0;-1;0;0;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;2;1;0;-1;0;0;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;3;1;0;-1;0;0;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;4;1;0;-1;0;0;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;5;1;0;-1;0;0;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;6;1;1;0;100;1;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;7;1;0;-1;0;0;1;0;0;0.333333;0.471405;1;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;8;1;0;-1;0;0;0;1;0;0.333333;0.471405;-1;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;9;1;0;-1;0;0;0;0;1;0.333333;0.471405;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;10;1;0;-1;0;0;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;11;1;0;-1;0;0;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2025;12;1;0;-1;0;0;0;0;0;0;0;0;16;0;0;=;ppm
+c20_recExt;C020 Développement de produits;Réclamation Externe;2026;1;140;100;-40;71.428571;0;0;0;0;0;0;0;16;0;0;;
+c20_recExt;C020 Développement de produits;Réclamation Externe;2026;2;140;120;-20;85.714286;0;100;0;0;33.333333;47.140452;100;16;0;0;;
+c20_recExt;C020 Développement de produits;Réclamation Externe;2026;3;140;130;-10;92.857143;0;120;100;0;73.333333;52.493386;20;16;0;0;;
+c20_recExt;C020 Développement de produits;Réclamation Externe;2026;4;140;140;0;100;1;130;120;100;116.666667;12.472191;10;16;0;0;;
+c20_recExt;C020 Développement de produits;Réclamation Externe;2026;5;140;150;10;107.142857;1;140;130;120;130;8.164966;10;16;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;1;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;2;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;3;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;4;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;5;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;6;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;7;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;8;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;9;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;10;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;11;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2022;12;200;150;-50;75;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;1;1;0;-1;0;0;150;150;150;150;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;2;1;0;-1;0;0;0;150;150;100;70.710678;-150;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;3;1;0;-1;0;0;0;0;150;50;70.710678;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;4;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;5;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;6;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;7;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;8;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;9;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;10;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;11;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2024;12;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;1;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;2;1;1;0;100;1;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;3;1;0;-1;0;0;1;0;0;0.333333;0.471405;1;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;4;1;0;-1;0;0;0;1;0;0.333333;0.471405;-1;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;5;1;0;-1;0;0;0;0;1;0.333333;0.471405;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;6;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;7;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;8;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;9;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;10;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;11;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2025;12;1;0;-1;0;0;0;0;0;0;0;0;17;0;0;INF;PPM
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;1;150;180;30;120;1;0;0;0;0;0;0;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;2;150;180;30;120;1;180;0;0;60;84.852814;180;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;3;150;160;10;106.666667;1;180;180;0;120;84.852814;0;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;4;150;160;10;106.666667;1;160;180;180;173.333333;9.42809;-20;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;5;150;170;20;113.333333;1;160;160;180;166.666667;9.42809;0;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;6;;170;;;;170;160;160;163.333333;4.714045;10;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;7;;170;;;;170;170;160;166.666667;4.714045;0;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;8;;170;;;;170;170;170;170;0;0;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;9;;180;;;;170;170;170;170;0;0;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;10;;190;;;;180;170;170;173.333333;4.714045;10;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;11;;180;;;;190;180;170;180;8.164966;10;17;0;0;;
+c20_recInt;C020 Développement de produits;Réclamation Interne;2026;12;;166;;;;180;190;180;183.333333;4.714045;-10;17;0;0;;
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;1;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;2;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;3;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;4;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;5;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;6;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;7;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;8;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;9;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;10;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;11;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2022;12;50;40;-10;80;0;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;1;97;100;3;103.092784;1;40;40;40;40;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;2;97;98;1;101.030928;1;100;40;40;60;28.284271;60;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;3;97;100;3;103.092784;1;98;100;40;79.333333;27.824849;-2;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;4;97;94;-3;96.907216;0;100;98;100;99.333333;0.942809;2;18;1;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;5;97;89;-8;91.752577;0;94;100;98;97.333333;2.494438;-6;18;1;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;6;97;99;2;102.061856;1;89;94;100;94.333333;4.496913;-5;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;7;97;100;3;103.092784;1;99;89;94;94;4.082483;10;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;8;97;100;3;103.092784;1;100;99;89;96;4.966555;1;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;9;97;100;3;103.092784;1;100;100;99;99.666667;0.471405;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;10;97;98;1;101.030928;1;100;100;100;100;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;11;97;97;0;100;1;98;100;100;99.333333;0.942809;-2;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2024;12;97;100;3;103.092784;1;97;98;100;98.333333;1.247219;-1;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;1;98;100;2;102.040816;1;100;97;98;98.333333;1.247219;3;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;2;98;100;2;102.040816;1;100;100;97;99;1.414214;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;3;98;100;2;102.040816;1;100;100;100;100;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;4;98;100;2;102.040816;1;100;100;100;100;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;5;98;100;2;102.040816;1;100;100;100;100;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;6;98;100;2;102.040816;1;100;100;100;100;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;7;98;0;-98;0;0;100;100;100;100;0;0;18;1;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;8;98;0;-98;0;0;0;100;100;66.666667;47.140452;-100;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;9;98;0;-98;0;0;0;0;100;33.333333;47.140452;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;10;98;0;-98;0;0;0;0;0;0;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;11;98;0;-98;0;0;0;0;0;0;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2025;12;98;0;-98;0;0;0;0;0;0;0;0;18;0;0;SUPP;%
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2026;1;60;70;10;116.666667;1;0;0;0;0;0;0;18;0;0;;
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2026;2;60;66;6;110;1;70;0;0;23.333333;32.998316;70;18;0;0;;
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2026;3;60;50;-10;83.333333;0;66;70;0;45.333333;32.097075;-4;18;0;0;;
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2026;4;60;80;20;133.333333;1;50;66;70;62;8.640988;-16;18;0;0;;
+c20_risqueSST;C020 Développement de produits;T de respect des délais changement technique;2026;5;60;40;-20;66.666667;0;80;50;66;65.333333;12.256518;30;18;0;0;;
+c30_carton;;;2024;1;2000;785;-1215;39.25;0;785;785;785;785;0;0;21;0;0;;
+c30_carton;;;2024;2;2000;680;-1320;34;0;785;785;785;785;0;0;21;0;0;;
+c30_carton;;;2024;3;2000;680;-1320;34;0;680;785;785;750;49.497475;-105;21;0;0;;
+c30_carton;;;2024;4;2000;1055;-945;52.75;0;680;680;785;715;49.497475;0;21;0;0;;
+c30_carton;;;2024;5;2000;1550;-450;77.5;0;1055;680;680;805;176.776695;375;21;0;0;;
+c30_carton;;;2024;6;2000;1856;-144;92.8;0;1550;1055;680;1095;356.300435;495;21;0;0;;
+c30_carton;;;2024;7;2000;1250;-750;62.5;0;1856;1550;1055;1487;330.027272;306;21;0;0;;
+c30_carton;;;2024;8;2000;1420;-580;71;0;1250;1856;1550;1552;247.402506;-606;21;0;0;;
+c30_carton;;;2024;9;2000;1800;-200;90;0;1420;1250;1856;1508.666667;255.219296;170;21;0;0;;
+c30_carton;;;2024;10;2000;1850;-150;92.5;0;1800;1420;1250;1490;229.927525;380;21;0;0;;
+c30_carton;;;2024;11;2000;2150;150;107.5;1;1850;1800;1420;1690;192.006944;50;21;0;0;;
+c30_carton;;;2024;12;2000;1875;-125;93.75;0;2150;1850;1800;1933.333333;154.560308;300;21;0;0;;
+c30_carton;;;2025;1;2000;1850;-150;92.5;0;1875;2150;1850;1958.333333;135.912554;-275;21;0;0;;
+c30_carton;;;2025;2;2000;1850;-150;92.5;0;1850;1875;2150;1958.333333;135.912554;-25;21;0;0;;
+c30_carton;;;2025;3;2000;1700;-300;85;0;1850;1850;1875;1858.333333;11.785113;0;21;0;0;;
+c30_carton;;;2025;4;2000;1850;-150;92.5;0;1700;1850;1850;1800;70.710678;-150;21;0;0;;
+c30_carton;;;2025;5;2000;0;-2000;0;0;1850;1700;1850;1800;70.710678;150;21;0;0;;
+c30_carton;;;2025;6;2000;0;-2000;0;0;0;1850;1700;1183.333333;838.980863;-1850;21;0;0;;
+c30_carton;;;2025;7;2000;0;-2000;0;0;0;0;1850;616.666667;872.098363;0;21;0;0;;
+c30_carton;;;2025;8;2000;0;-2000;0;0;0;0;0;0;0;0;21;0;0;;
+c30_carton;;;2025;9;2000;0;-2000;0;0;0;0;0;0;0;0;21;0;0;;
+c30_carton;;;2025;10;2000;0;-2000;0;0;0;0;0;0;0;0;21;0;0;;
+c30_carton;;;2025;11;2000;0;-2000;0;0;0;0;0;0;0;0;21;0;0;;
+c30_carton;;;2025;12;2000;0;-2000;0;0;0;0;0;0;0;0;21;0;0;;
+c30_incid;;;2024;1;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;2;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;3;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;4;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;5;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;6;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;7;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;8;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;9;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;10;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;11;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2024;12;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;1;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;2;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;3;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;4;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;5;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;6;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;7;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;8;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;9;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;10;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;11;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_incid;;;2025;12;0;0;0;;1;0;0;0;0;0;0;22;0;0;;
+c30_Kund;;;2024;1;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;2;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;3;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;4;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;5;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;6;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;7;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;8;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;9;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;10;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;11;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2024;12;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;1;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;2;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;3;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;4;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;5;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;6;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;7;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;8;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;9;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;10;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;11;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund;;;2025;12;0;0;0;;1;0;0;0;0;0;0;19;0;0;;
+c30_Kund_old;;;2024;1;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;2;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;3;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;4;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;5;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;6;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;7;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;8;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;9;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;10;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;11;2;;;;;;;;;;;20;0;0;;
+c30_Kund_old;;;2024;12;2;;;;;;;;;;;20;0;0;;
+c30_lager;;;2024;1;2;2.28;0.28;114;1;2.28;2.28;2.28;2.28;0;0;23;0;0;;
+c30_lager;;;2024;2;2;2.26;0.26;113;1;2.28;2.28;2.28;2.28;0;0;23;0;0;;
+c30_lager;;;2024;3;2;1.46;-0.54;73;0;2.26;2.28;2.28;2.273333;0.009428;-0.02;23;0;0;;
+c30_lager;;;2024;4;2;1.93;-0.07;96.5;0;1.46;2.26;2.28;2;0.381925;-0.8;23;0;0;;
+c30_lager;;;2024;5;2;2.25;0.25;112.5;1;1.93;1.46;2.26;1.883333;0.328261;0.47;23;0;0;;
+c30_lager;;;2024;6;2;1.62;-0.38;81;0;2.25;1.93;1.46;1.88;0.324448;0.32;23;0;0;;
+c30_lager;;;2024;7;2;2.17;0.17;108.5;1;1.62;2.25;1.93;1.933333;0.257207;-0.63;23;0;0;;
+c30_lager;;;2024;8;2;1.99;-0.01;99.5;0;2.17;1.62;2.25;2.013333;0.28004;0.55;23;0;0;;
+c30_lager;;;2024;9;2;2.17;0.17;108.5;1;1.99;2.17;1.62;1.926667;0.228959;-0.18;23;0;0;;
+c30_lager;;;2024;10;2;2;0;100;1;2.17;1.99;2.17;2.11;0.084853;0.18;23;0;0;;
+c30_lager;;;2024;11;2;2;0;100;1;2;2.17;1.99;2.053333;0.082597;-0.17;23;0;0;;
+c30_lager;;;2024;12;2;1.61;-0.39;80.5;0;2;2;2.17;2.056667;0.080139;0;23;0;0;;
+c30_lager;;;2025;1;2;1.79;-0.21;89.5;0;1.61;2;2;1.87;0.183848;-0.39;23;0;0;;
+c30_lager;;;2025;2;2;1.61;-0.39;80.5;0;1.79;1.61;2;1.8;0.159374;0.18;23;0;0;;
+c30_lager;;;2025;3;2;1.81;-0.19;90.5;0;1.61;1.79;1.61;1.67;0.084853;-0.18;23;0;0;;
+c30_lager;;;2025;4;2;2.12;0.12;106;1;1.81;1.61;1.79;1.736667;0.089938;0.2;23;0;0;;
+c30_lager;;;2025;5;2;0;-2;0;0;2.12;1.81;1.61;1.846667;0.209815;0.31;23;0;0;;
+c30_lager;;;2025;6;2;0;-2;0;0;0;2.12;1.81;1.31;0.934915;-2.12;23;0;0;;
+c30_lager;;;2025;7;2;0;-2;0;0;0;0;2.12;0.706667;0.999378;0;23;0;0;;
+c30_lager;;;2025;8;2;0;-2;0;0;0;0;0;0;0;0;23;0;0;;
+c30_lager;;;2025;9;2;0;-2;0;0;0;0;0;0;0;0;23;0;0;;
+c30_lager;;;2025;10;2;0;-2;0;0;0;0;0;0;0;0;23;0;0;;
+c30_lager;;;2025;11;2;0;-2;0;0;0;0;0;0;0;0;23;0;0;;
+c30_lager;;;2025;12;2;0;-2;0;0;0;0;0;0;0;0;23;0;0;;
+c30_polyval;;;2024;1;70;77;7;110;1;77;77;77;77;0;0;24;0;0;;
+c30_polyval;;;2024;2;70;77;7;110;1;77;77;77;77;0;0;24;0;0;;
+c30_polyval;;;2024;3;70;77;7;110;1;77;77;77;77;0;0;24;0;0;;
+c30_polyval;;;2024;4;70;77;7;110;1;77;77;77;77;0;0;24;0;0;;
+c30_polyval;;;2024;5;70;77;7;110;1;77;77;77;77;0;0;24;0;0;;
+c30_polyval;;;2024;6;70;76;6;108.571429;1;77;77;77;77;0;0;24;0;0;;
+c30_polyval;;;2024;7;70;76;6;108.571429;1;76;77;77;76.666667;0.471405;-1;24;0;0;;
+c30_polyval;;;2024;8;70;87;17;124.285714;1;76;76;77;76.333333;0.471405;0;24;0;0;;
+c30_polyval;;;2024;9;70;87;17;124.285714;1;87;76;76;79.666667;5.18545;11;24;0;0;;
+c30_polyval;;;2024;10;70;87;17;124.285714;1;87;87;76;83.333333;5.18545;0;24;0;0;;
+c30_polyval;;;2024;11;70;87;17;124.285714;1;87;87;87;87;0;0;24;0;0;;
+c30_polyval;;;2024;12;70;87;17;124.285714;1;87;87;87;87;0;0;24;0;0;;
+c30_polyval;;;2025;1;70;87;17;124.285714;1;87;87;87;87;0;0;24;0;0;;
+c30_polyval;;;2025;2;70;75;5;107.142857;1;87;87;87;87;0;0;24;0;0;;
+c30_polyval;;;2025;3;70;78;8;111.428571;1;75;87;87;83;5.656854;-12;24;0;0;;
+c30_polyval;;;2025;4;70;79;9;112.857143;1;78;75;87;80;5.09902;3;24;0;0;;
+c30_polyval;;;2025;5;70;0;-70;0;0;79;78;75;77.333333;1.699673;1;24;0;0;;
+c30_polyval;;;2025;6;70;0;-70;0;0;0;79;78;52.333333;37.007507;-79;24;0;0;;
+c30_polyval;;;2025;7;70;0;-70;0;0;0;0;79;26.333333;37.240957;0;24;0;0;;
+c30_polyval;;;2025;8;70;0;-70;0;0;0;0;0;0;0;0;24;0;0;;
+c30_polyval;;;2025;9;70;0;-70;0;0;0;0;0;0;0;0;24;0;0;;
+c30_polyval;;;2025;10;70;0;-70;0;0;0;0;0;0;0;0;24;0;0;;
+c30_polyval;;;2025;11;70;0;-70;0;0;0;0;0;0;0;0;24;0;0;;
+c30_polyval;;;2025;12;70;0;-70;0;0;0;0;0;0;0;0;24;0;0;;
+c30_sonder;;;2024;1;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;2;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;3;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;4;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;5;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;6;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;7;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;8;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;9;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;10;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;11;500;895;395;179;1;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2024;12;500;0;-500;0;0;895;0;0;298.333333;421.907046;895;25;0;0;;
+c30_sonder;;;2025;1;500;0;-500;0;0;0;895;0;298.333333;421.907046;-895;25;0;0;;
+c30_sonder;;;2025;2;500;0;-500;0;0;0;0;895;298.333333;421.907046;0;25;0;0;;
+c30_sonder;;;2025;3;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;4;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;5;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;6;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;7;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;8;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;9;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;10;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;11;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+c30_sonder;;;2025;12;500;0;-500;0;0;0;0;0;0;0;0;25;0;0;;
+C30_stokmat;C030 Approvisionnement et Stockage;Stock Matière première;2023;2;;;;;;;;;;;;0;1;0;INF;%
+C30_stokmat;C030 Approvisionnement et Stockage;Stock Matière première;2023;3;;;;;;;;;;;;0;1;0;INF;%
+C30_stokmat;C030 Approvisionnement et Stockage;Stock Matière première;2023;7;;;;;;;;;;;;0;1;0;INF;%
+C30_stokmat;C030 Approvisionnement et Stockage;Stock Matière première;2024;1;;;;;;;;;;;;0;1;0;INF;%
+C30_stokmat;C030 Approvisionnement et Stockage;Stock Matière première;2024;2;;;;;;;;;;;;0;1;0;INF;%
+C30_stokmat;C030 Approvisionnement et Stockage;Stock Matière première;2024;5;;;;;;;;;;;;0;1;0;INF;%
+C30_stokmat;C030 Approvisionnement et Stockage;Stock Matière première;2024;7;;;;;;;;;;;;0;1;0;INF;%
+c30_verfung;;;2024;1;98;98.8;0.8;100.816327;1;98.8;98.8;98.8;98.8;0;0;26;0;0;;
+c30_verfung;;;2024;2;98;98.7;0.7;100.714286;1;98.8;98.8;98.8;98.8;0;0;26;0;0;;
+c30_verfung;;;2024;3;98;98.8;0.8;100.816327;1;98.7;98.8;98.8;98.766667;0.04714;-0.1;26;0;0;;
+c30_verfung;;;2024;4;98;99;1;101.020408;1;98.8;98.7;98.8;98.766667;0.04714;0.1;26;0;0;;
+c30_verfung;;;2024;5;98;99;1;101.020408;1;99;98.8;98.7;98.833333;0.124722;0.2;26;0;0;;
+c30_verfung;;;2024;6;98;98.6;0.6;100.612245;1;99;99;98.8;98.933333;0.094281;0;26;0;0;;
+c30_verfung;;;2024;7;98;99;1;101.020408;1;98.6;99;99;98.866667;0.188562;-0.4;26;0;0;;
+c30_verfung;;;2024;8;98;99;1;101.020408;1;99;98.6;99;98.866667;0.188562;0.4;26;0;0;;
+c30_verfung;;;2024;9;98;98;0;100;1;99;99;98.6;98.866667;0.188562;0;26;0;0;;
+c30_verfung;;;2024;10;98;98.61;0.61;100.622449;1;98;99;99;98.666667;0.471405;-1;26;0;0;;
+c30_verfung;;;2024;11;98;98.62;0.62;100.632653;1;98.61;98;99;98.536667;0.411528;0.61;26;0;0;;
+c30_verfung;;;2024;12;98;99.07;1.07;101.091837;1;98.62;98.61;98;98.41;0.289943;0.01;26;0;0;;
+c30_verfung;;;2025;1;98;98.6;0.6;100.612245;1;99.07;98.62;98.61;98.766667;0.214528;0.45;26;0;0;;
+c30_verfung;;;2025;2;98;98.28;0.28;100.285714;1;98.6;99.07;98.62;98.763333;0.217;-0.47;26;0;0;;
+c30_verfung;;;2025;3;98;98.75;0.75;100.765306;1;98.28;98.6;99.07;98.65;0.324448;-0.32;26;0;0;;
+c30_verfung;;;2025;4;98;98.75;0.75;100.765306;1;98.75;98.28;98.6;98.543333;0.196016;0.47;26;0;0;;
+c30_verfung;;;2025;5;98;0;-98;0;0;98.75;98.75;98.28;98.593333;0.22156;0;26;0;0;;
+c30_verfung;;;2025;6;98;0;-98;0;0;0;98.75;98.75;65.833333;46.551196;-98.75;26;0;0;;
+c30_verfung;;;2025;7;98;0;-98;0;0;0;0;98.75;32.916667;46.551196;0;26;0;0;;
+c30_verfung;;;2025;8;98;0;-98;0;0;0;0;0;0;0;0;26;0;0;;
+c30_verfung;;;2025;9;98;0;-98;0;0;0;0;0;0;0;0;26;0;0;;
+c30_verfung;;;2025;10;98;0;-98;0;0;0;0;0;0;0;0;26;0;0;;
+c30_verfung;;;2025;11;98;0;-98;0;0;0;0;0;0;0;0;26;0;0;;
+c30_verfung;;;2025;12;98;0;-98;0;0;0;0;0;0;0;0;26;0;0;;
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;1;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;2;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;3;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;4;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;5;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;6;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;7;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;8;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;9;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;10;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;11;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_grad;C040 Planification des commandes clients;Niveau de service;2024;12;98;100;2;102.040816;1;100;100;100;100;0;0;27;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;1;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;2;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;3;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;4;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;5;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;6;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;7;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;8;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;9;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;10;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;11;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2024;12;90;100;10;111.111111;1;100;100;100;100;0;0;28;0;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2025;5;;;;;;100;100;100;100;0;0;28;1;0;SUPP;%
+c40_kunden;C040 Planification des commandes clients;Satisfaction de la clientèle;2025;7;;;;;;100;100;100;100;0;0;28;1;0;SUPP;%
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2023;7;;;;;;;;;;;;29;1;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;1;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;2;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;3;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;4;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;5;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;6;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;7;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;8;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;9;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;10;500;0;-500;0;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;11;500;497;-3;99.4;0;0;0;0;0;0;0;29;0;0;INF;€
+c40_sonder;C040 Planification des commandes clients;Frais de déplacement spéciaux;2024;12;500;500;0;100;1;497;0;0;165.666667;234.288047;497;29;0;0;INF;€
+c50_6s;C050 Production;Temps d'arrêt -6S-;2022;6;;;;;;;;;;;;30;1;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;1;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;2;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;3;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;4;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;5;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;6;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;7;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;8;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;9;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;10;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;11;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2025;12;0;0;0;;1;0;0;0;0;0;0;30;0;0;INF;mn
+c50_6s;C050 Production;Temps d'arrêt -6S-;2026;1;100;;;;;0;0;0;0;0;0;30;0;0;;
+c50_absence;C050 Production;Absence;2025;1;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;2;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;3;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;4;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;5;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;6;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;7;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;8;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;9;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;10;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;11;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2025;12;0;0;0;;1;0;0;0;0;0;0;31;0;0;INF;%
+c50_absence;C050 Production;Absence;2026;1;50;;;;;0;0;0;0;0;0;31;0;0;;
+c50_absence;C050 Production;Absence;2026;2;60;;;;;0;0;0;0;0;0;31;0;0;;
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;1;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;2;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;3;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;4;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;5;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;6;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;7;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;8;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;9;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;10;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;11;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_bache;C050 Production;Taux de Bache à Bulle réutilisé;2025;12;0;0;0;;1;0;0;0;0;0;0;32;0;0;INF;Kg
+c50_dechet;C050 Production;Cout de déchet;2023;1;;;;;;;;;;;;33;1;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;1;200;161;-39;80.5;0;161;161;161;161;0;0;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;2;200;247;47;123.5;1;161;161;161;161;0;0;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;3;200;110;-90;55;0;247;161;161;189.666667;40.540789;86;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;4;200;196;-4;98;0;110;247;161;172.666667;56.535141;-137;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;5;200;49;-151;24.5;0;196;110;247;184.333333;56.535141;86;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;6;200;41.5;-158.5;20.75;0;49;196;110;118.333333;60.301096;-147;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;7;200;97.11;-102.89;48.555;0;41.5;49;196;95.5;71.130162;-7.5;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;8;200;0;-200;0;0;97.11;41.5;49;62.536667;24.638033;55.61;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;9;200;0;-200;0;0;0;97.11;41.5;46.203333;39.784243;-97.11;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;10;200;0;-200;0;0;0;0;97.11;32.37;45.778093;0;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;11;200;0;-200;0;0;0;0;0;0;0;0;33;0;0;INF;%
+c50_dechet;C050 Production;Cout de déchet;2025;12;200;0;-200;0;0;0;0;0;0;0;0;33;0;0;INF;%
+c50_effic;C050 Production;Efficience;2025;1;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;2;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;3;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;4;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;5;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;6;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;7;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;8;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;9;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;10;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;11;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2025;12;0;0;0;;1;0;0;0;0;0;0;34;0;0;SUPP;€/H
+c50_effic;C050 Production;Efficience;2026;1;30;;;;;0;0;0;0;0;0;34;0;0;;
+c50_envir;;;2025;1;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;2;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;3;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;4;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;5;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;6;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;7;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;8;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;9;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;10;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;11;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_envir;;;2025;12;0;0;0;;1;0;0;0;0;0;0;35;0;0;;
+c50_plaq;C050 Production;Poid de déchet production;2025;1;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;2;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;3;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;4;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;5;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;6;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;7;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;8;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;9;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;10;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;11;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plaq;C050 Production;Poid de déchet production;2025;12;0;0;0;;1;0;0;0;0;0;0;36;0;0;INF;Kg
+c50_plas;;;2025;1;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;2;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;3;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;4;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;5;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;6;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;7;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;8;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;9;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;10;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;11;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_plas;;;2025;12;;0;;;;0;0;0;0;0;0;37;0;0;;
+c50_rend;C050 Production;Rendement;2025;1;87.5;87.55;0.05;100.057143;1;87.55;87.55;87.55;87.55;0;0;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;2;87.5;87.5;0;100;1;87.55;87.55;87.55;87.55;0;0;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;3;87.5;87.54;0.04;100.045714;1;87.5;87.55;87.55;87.533333;0.02357;-0.05;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;4;87.5;87.58;0.08;100.091429;1;87.54;87.5;87.55;87.53;0.021602;0.04;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;5;87.5;87.52;0.02;100.022857;1;87.58;87.54;87.5;87.54;0.03266;0.04;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;6;87.5;87.91;0.41;100.468571;1;87.52;87.58;87.54;87.546667;0.024944;-0.06;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;7;87.5;87.77;0.27;100.308571;1;87.91;87.52;87.58;87.67;0.171464;0.39;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;8;87.5;0;-87.5;0;0;87.77;87.91;87.52;87.733333;0.161314;-0.14;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;9;87.5;0;-87.5;0;0;0;87.77;87.91;58.56;41.408213;-87.77;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;10;87.5;0;-87.5;0;0;0;0;87.77;29.256667;41.375175;0;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;11;87.5;0;-87.5;0;0;0;0;0;0;0;0;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2025;12;87.5;0;-87.5;0;0;0;0;0;0;0;0;38;0;0;SUPP;%
+c50_rend;C050 Production;Rendement;2026;1;60;;;;;0;0;0;0;0;0;38;0;0;;
+c50_rend;C050 Production;Rendement;2026;2;60;;;;;0;0;0;0;0;0;38;0;0;;
+c50_rend;C050 Production;Rendement;2026;3;60;;;;;0;0;0;0;0;0;38;0;0;;
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;1;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;2;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;3;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;4;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;5;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;6;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;7;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;8;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;9;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;10;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;11;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c50_respect;C050 Production;Taux de satisfaction des employés sur les conditions SST;2025;12;0;0;0;;1;0;0;0;0;0;0;39;0;0;SUPP;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;1;0;0;0;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;2;0;0;0;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;3;0;0;0;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;4;0;0;0;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;5;0;0;0;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;6;0;1;1;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;7;0;0;0;;1;1;0;0;0.333333;0.471405;1;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;8;0;0;0;;1;0;1;0;0.333333;0.471405;-1;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;9;0;0;0;;1;0;0;1;0.333333;0.471405;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;10;0;0;0;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;11;0;0;0;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_Accid;C060 Emballage et livraison;Accident Chariot Elevateur;2025;12;0;0;0;;1;0;0;0;0;0;0;40;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;1;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;2;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;3;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;4;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;5;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;6;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;7;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;8;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;9;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;10;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;11;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_chim;C060 Emballage et livraison;Déversement : produit chimique ou huiles;2025;12;0;0;0;;1;0;0;0;0;0;0;41;0;0;INF;Nbr
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2022;2;;;;;;;;;;;;42;1;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2022;6;;;;;;;;;;;;42;1;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2023;1;;;;;;;;;;;;42;1;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2023;2;;;;;;;;;;;;42;1;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2023;3;;;;;;;;;;;;42;1;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2024;1;;;;;;;;;;;;42;1;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;1;18;16;-2;88.888889;0;16;16;16;16;0;0;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;2;18;17;-1;94.444444;0;16;16;16;16;0;0;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;3;18;15;-3;83.333333;0;17;16;16;16.333333;0.471405;1;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;4;18;16;-2;88.888889;0;15;17;16;16;0.816497;-2;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;5;18;21;3;116.666667;1;16;15;17;16;0.816497;1;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;6;18;11;-7;61.111111;0;21;16;15;17.333333;2.624669;5;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;7;18;18;0;100;1;11;21;16;16;4.082483;-10;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;8;18;0;-18;0;0;18;11;21;16.666667;4.189935;7;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;9;18;0;-18;0;0;0;18;11;9.666667;7.408704;-18;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;10;18;0;-18;0;0;0;0;18;6;8.485281;0;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;11;18;0;-18;0;0;0;0;0;0;0;0;42;0;0;INF;Kg
+c60_consom;C060 Emballage et livraison;Consommation. Papier;2025;12;18;0;-18;0;0;0;0;0;0;0;0;42;0;0;INF;Kg
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;1;80;80;0;100;1;80;80;80;80;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;2;80;80;0;100;1;80;80;80;80;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;3;80;80;0;100;1;80;80;80;80;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;4;80;80;0;100;1;80;80;80;80;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;5;80;80;0;100;1;80;80;80;80;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;6;80;80;0;100;1;80;80;80;80;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;7;80;80;0;100;1;80;80;80;80;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;8;80;0;-80;0;0;80;80;80;80;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;9;80;0;-80;0;0;0;80;80;53.333333;37.712362;-80;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;10;80;0;-80;0;0;0;0;80;26.666667;37.712362;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;11;80;0;-80;0;0;0;0;0;0;0;0;43;0;0;SUPP;%
+c60_correct;C060 Emballage et livraison;Actions Correctives;2025;12;80;0;-80;0;0;0;0;0;0;0;0;43;0;0;SUPP;%
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;1;75;87;12;116;1;87;87;87;87;0;0;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;2;75;75;0;100;1;87;87;87;87;0;0;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;3;75;78;3;104;1;75;87;87;83;5.656854;-12;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;4;75;79;4;105.333333;1;78;75;87;80;5.09902;3;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;5;75;79;4;105.333333;1;79;78;75;77.333333;1.699673;1;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;6;75;78;3;104;1;79;79;78;78.666667;0.471405;0;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;7;75;78;3;104;1;78;79;79;78.666667;0.471405;-1;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;8;75;0;-75;0;0;78;78;79;78.333333;0.471405;0;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;9;75;0;-75;0;0;0;78;78;52;36.769553;-78;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;10;75;0;-75;0;0;0;0;78;26;36.769553;0;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;11;75;0;-75;0;0;0;0;0;0;0;0;44;0;0;;m²
+c60_polyv;C060 Emballage et livraison;Taux Polyvalences;2025;12;75;0;-75;0;0;0;0;0;0;0;0;44;0;0;;m²
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;1;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;2;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;3;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;4;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;5;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;6;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;7;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;8;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;9;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;10;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;11;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_rec;C060 Emballage et livraison;Reclamations Int.&.Ext;2025;12;0;0;0;;1;0;0;0;0;0;0;45;0;0;INF;Nbr
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;1;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;2;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;3;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;4;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;5;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;6;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;7;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;8;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;9;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;10;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;11;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+c60_trans;C060 Emballage et livraison;Ecart cout réel de transport;2025;12;0;0;0;;1;0;0;0;0;0;0;46;0;0;INF;LDM
+code_x;;;2025;1;90;100;10;111.111111;1;100;100;100;100;0;0;47;0;0;;
+code_x;;;2025;2;90;150;60;166.666667;1;100;100;100;100;0;0;47;0;0;;
+code_x;;;2025;3;90;100;10;111.111111;1;150;100;100;116.666667;23.570226;50;47;0;0;;
+code_x;;;2025;4;90;130;40;144.444444;1;100;150;100;116.666667;23.570226;-50;47;0;0;;
+code_x;;;2025;5;90;160;70;177.777778;1;130;100;150;126.666667;20.548047;30;47;0;0;;
+code_x;;;2025;6;90;140;50;155.555556;1;160;130;100;130;24.494897;30;47;0;0;;
+code_x;;;2025;7;90;110;20;122.222222;1;140;160;130;143.333333;12.472191;-20;47;0;0;;
+code_x;;;2025;8;90;130;40;144.444444;1;110;140;160;136.666667;20.548047;-30;47;0;0;;
+code_x;;;2025;9;90;105;15;116.666667;1;130;110;140;126.666667;12.472191;20;47;0;0;;
+code_x;;;2025;10;90;180;90;200;1;105;130;110;115;10.801234;-25;47;0;0;;
+code_x;;;2025;11;90;170;80;188.888889;1;180;105;130;138.333333;31.180478;75;47;0;0;;
+code_x;;;2025;12;90;180;90;200;1;170;180;105;151.666667;33.249896;-10;47;0;0;;
+code_x;;;2026;1;100;100;0;100;1;180;170;180;176.666667;4.714045;10;47;0;0;;
+code_x;;;2026;2;100;150;50;150;1;100;180;170;150;35.590261;-80;47;0;0;;
+code_x;;;2026;3;100;100;0;100;1;150;100;180;143.333333;32.998316;50;47;0;0;;
+code_x;;;2026;4;100;130;30;130;1;100;150;100;116.666667;23.570226;-50;47;0;0;;
+code_x;;;2026;5;100;160;60;160;1;130;100;150;126.666667;20.548047;30;47;0;0;;
+code_x;;;2026;6;100;140;40;140;1;160;130;100;130;24.494897;30;47;0;0;;
+code_x;;;2026;7;100;110;10;110;1;140;160;130;143.333333;12.472191;-20;47;0;0;;
+code_x;;;2026;8;100;130;30;130;1;110;140;160;136.666667;20.548047;-30;47;0;0;;
+code_x;;;2026;9;100;105;5;105;1;130;110;140;126.666667;12.472191;20;47;0;0;;
+code_x;;;2026;10;100;180;80;180;1;105;130;110;115;10.801234;-25;47;0;0;;
+code_x;;;2026;11;100;170;70;170;1;180;105;130;138.333333;31.180478;75;47;0;0;;
+code_x;;;2026;12;100;180;80;180;1;170;180;105;151.666667;33.249896;-10;47;0;0;;
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;1;120;22;-98;18.333333;0;22;22;22;22;0;0;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;2;120;23;-97;19.166667;0;22;22;22;22;0;0;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;3;120;23;-97;19.166667;0;23;22;22;22.333333;0.471405;1;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;4;120;23;-97;19.166667;0;23;23;22;22.666667;0.471405;0;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;5;120;23;-97;19.166667;0;23;23;23;23;0;0;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;6;120;23.4;-96.6;19.5;0;23;23;23;23;0;0;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;7;120;0;-120;0;0;23.4;23;23;23.133333;0.188562;0.4;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;8;120;0;-120;0;0;0;23.4;23;15.466667;10.937804;-23.4;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;9;120;0;-120;0;0;0;0;23.4;7.8;11.030866;0;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;10;120;0;-120;0;0;0;0;0;0;0;0;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;11;120;0;-120;0;0;0;0;0;0;0;0;49;0;0;INF;%
+m10_cout;M010 Direction et Organisation;Respect des coûts prévus du projet;2025;12;120;0;-120;0;0;0;0;0;0;0;0;49;0;0;INF;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2022;1;;;;;;;;;;;;50;1;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2022;2;;;;;;;;;;;;50;1;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2022;5;;;;;;;;;;;;50;1;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2022;6;;;;;;;;;;;;50;1;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;1;88;87.68;-0.32;99.636364;0;87.68;87.68;87.68;87.68;0;0;50;1;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;2;88;88;0;100;1;87.68;87.68;87.68;87.68;0;0;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;3;88;87.42;-0.58;99.340909;0;88;87.68;87.68;87.786667;0.150849;0.32;50;1;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;4;87;88;1;101.149425;1;87.42;88;87.68;87.7;0.237206;-0.58;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;5;87;87;0;100;1;88;87.42;88;87.806667;0.273415;0.58;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;6;87;87.65;0.65;100.747126;1;87;88;87.42;87.473333;0.409986;-1;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;7;85;87.12;2.12;102.494118;1;87.65;87;88;87.55;0.414327;0.65;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;8;85;87.16;2.16;102.541176;1;87.12;87.65;87;87.256667;0.28241;-0.53;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;9;85;86.94;1.94;102.282353;1;87.16;87.12;87.65;87.31;0.24097;0.04;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;10;85;86.72;1.72;102.023529;1;86.94;87.16;87.12;87.073333;0.095685;-0.22;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;11;85;86.87;1.87;102.2;1;86.72;86.94;87.16;86.94;0.179629;-0.22;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2024;12;85;86.93;1.93;102.270588;1;86.87;86.72;86.94;86.843333;0.091773;0.15;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;1;85;85.69;0.69;100.811765;1;86.93;86.87;86.72;86.84;0.088318;0.06;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;2;85;86.75;1.75;102.058824;1;85.69;86.93;86.87;86.496667;0.570925;-1.24;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;3;85;86.88;1.88;102.211765;1;86.75;85.69;86.93;86.456667;0.547073;1.06;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;4;85;85.89;0.89;101.047059;1;86.88;86.75;85.69;86.44;0.532979;0.13;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;5;85;88.33;3.33;103.917647;1;85.89;86.88;86.75;86.506667;0.439267;-0.99;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;6;85;89.04;4.04;104.752941;1;88.33;85.89;86.88;87.033333;1.002009;2.44;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;7;85;0;-85;0;0;89.04;88.33;85.89;87.753333;1.349082;0.71;50;1;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;8;85;0;-85;0;0;0;89.04;88.33;59.123333;41.807515;-89.04;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;9;85;0;-85;0;0;0;0;89.04;29.68;41.973859;0;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;10;85;0;-85;0;0;0;0;0;0;0;0;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;11;85;0;-85;0;0;0;0;0;0;0;0;50;0;0;SUPP;%
+m10_oee;M010 Direction et Organisation;Efficacité équipement T rendement synthétique;2025;12;85;0;-85;0;0;0;0;0;0;0;0;50;0;0;SUPP;%
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2022;1;;;;;;;;;;;;48;1;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2022;2;;;;;;;;;;;;48;1;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2022;3;;;;;;;;;;;;48;1;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2022;7;;;;;;;;;;;;48;1;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;1;0.7;0.74;0.04;105.714286;1;0.74;0.74;0.74;0.74;0;0;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;2;0.7;0.71;0.01;101.428571;1;0.74;0.74;0.74;0.74;0;0;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;3;0.8;0.856;0.056;107;1;0.71;0.74;0.74;0.73;0.014142;-0.03;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;4;0.8;0.905;0.105;113.125;1;0.856;0.71;0.74;0.768667;0.062957;0.146;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;5;0.9;0.597;-0.303;66.333333;0;0.905;0.856;0.71;0.823667;0.082826;0.049;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;6;0.9;0.928;0.028;103.111111;1;0.597;0.905;0.856;0.786;0.135132;-0.308;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;7;0.9;0.931;0.031;103.444444;1;0.928;0.597;0.905;0.81;0.150906;0.331;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;8;0.9;0.939;0.039;104.333333;1;0.931;0.928;0.597;0.818667;0.156747;0.003;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;9;0.95;0.994;0.044;104.631579;1;0.939;0.931;0.928;0.932667;0.004643;0.008;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;10;0.9;1.033;0.133;114.777778;1;0.994;0.939;0.931;0.954667;0.028004;0.055;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;11;0.9;0.976;0.076;108.444444;1;1.033;0.994;0.939;0.988667;0.03856;0.039;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2024;12;0.75;1.2;0.45;160;1;0.976;1.033;0.994;1.001;0.023791;-0.057;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;1;1;1.068;0.068;106.8;1;1.2;0.976;1.033;1.069667;0.095052;0.224;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;2;1.1;1.119;0.019;101.727273;1;1.068;1.2;0.976;1.081333;0.091932;-0.132;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;3;1;1.044;0.044;104.4;1;1.119;1.068;1.2;1.129;0.054351;0.051;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;4;1;0.967;-0.033;96.7;0;1.044;1.119;1.068;1.077;0.031273;-0.075;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;5;1.2;1.06;-0.14;88.333333;0;0.967;1.044;1.119;1.043333;0.062056;-0.077;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;6;1.3;1.04;-0.26;80;0;1.06;0.967;1.044;1.023667;0.040598;0.093;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;7;1.3;0;-1.3;0;0;1.04;1.06;0.967;1.022333;0.039969;-0.02;48;1;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;8;1;0;-1;0;0;0;1.04;1.06;0.7;0.495042;-1.04;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;9;1.4;0;-1.4;0;0;0;0;1.04;0.346667;0.490261;0;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;10;1.3;0;-1.3;0;0;0;0;0;0;0;0;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;11;1.3;0;-1.3;0;0;0;0;0;0;0;0;48;0;0;SUPP;Mio€
+m10_Umsatz;M010 Direction et Organisation;Chiffre d'affaire;2025;12;1.1;0;-1.1;0;0;0;0;0;0;0;0;48;0;0;SUPP;Mio€
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2023;4;;;;;;;;;;;;53;1;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2023;7;;;;;;;;;;;;53;1;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;1;2.8;2.949;0.149;105.321429;1;2.949;2.949;2.949;2.949;0;0;53;1;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;2;2.8;3.203;0.403;114.392857;1;2.949;2.949;2.949;2.949;0;0;53;1;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;3;2.8;3.045;0.245;108.75;1;3.203;2.949;2.949;3.033667;0.119737;0.254;53;1;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;4;2.8;3.415;0.615;121.964286;1;3.045;3.203;2.949;3.065667;0.10472;-0.158;53;1;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;5;2.8;3.415;0.615;121.964286;1;3.415;3.045;3.203;3.221;0.151587;0.37;53;1;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;6;2.8;3.203;0.403;114.392857;1;3.415;3.415;3.045;3.291667;0.17442;0;53;1;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;7;2.8;2.689;-0.111;96.035714;0;3.203;3.415;3.415;3.344333;0.099938;-0.212;53;0;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;8;2.8;2.672;-0.128;95.428571;0;2.689;3.203;3.415;3.102333;0.304816;-0.514;53;0;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;9;2.8;2.645;-0.155;94.464286;0;2.672;2.689;3.203;2.854667;0.246407;-0.017;53;0;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;10;2.8;2.202;-0.598;78.642857;0;2.645;2.672;2.689;2.668667;0.018117;-0.027;53;0;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;11;2.8;2.701;-0.099;96.464286;0;2.202;2.645;2.672;2.506333;0.215478;-0.443;53;0;0;INF;%
+m20_1_eau;M020 Management intégrée Envirennement;Consommation Eau;2024;12;2.8;2.091;-0.709;74.678571;0;2.701;2.202;2.645;2.516;0.223205;0.499;53;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;1;1200;1166;-34;97.166667;0;1166;1166;1166;1166;0;0;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;2;1200;1377;177;114.75;1;1166;1166;1166;1166;0;0;54;1;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;3;1000;1164;164;116.4;1;1377;1166;1166;1236.333333;99.466354;211;54;1;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;4;1000;988;-12;98.8;0;1164;1377;1166;1235.666667;99.941094;-213;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;5;1100;963;-137;87.545455;0;988;1164;1377;1176.333333;159.047861;-176;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;6;1500;1315;-185;87.666667;0;963;988;1164;1038.333333;89.443961;-25;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;7;2000;1460;-540;73;0;1315;963;988;1088.666667;160.36694;352;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;8;2000;1909;-91;95.45;0;1460;1315;963;1246;208.683173;145;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;9;1200;1157;-43;96.416667;0;1909;1460;1315;1561.333333;252.864039;449;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;10;1000;950;-50;95;0;1157;1909;1460;1508.666667;308.925378;-752;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;11;1200;1050;-150;87.5;0;950;1157;1909;1338.666667;412.045575;-207;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2024;12;1200;970;-230;80.833333;0;1050;950;1157;1052.333333;84.523501;100;54;0;0;INF;%
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;1;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;2;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;3;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;4;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;5;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;6;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;7;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;8;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;9;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;10;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;11;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_energi;M020 Management intégrée Envirennement;Consommation Energie Electriques;2026;12;60;;;;;970;1050;950;990;43.204938;-80;54;0;0;;
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2023;1;;;;;;;;;;;;55;1;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2023;2;;;;;;;;;;;;55;1;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2023;3;;;;;;;;;;;;55;1;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;1;3.5;3.5;0;100;1;3.5;3.5;3.5;3.5;0;0;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;2;3.5;2.9;-0.6;82.857143;0;3.5;3.5;3.5;3.5;0;0;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;3;3.5;3.3;-0.2;94.285714;0;2.9;3.5;3.5;3.3;0.282843;-0.6;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;4;3.5;3.6;0.1;102.857143;1;3.3;2.9;3.5;3.233333;0.249444;0.4;55;1;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;5;3.5;3.8;0.3;108.571429;1;3.6;3.3;2.9;3.266667;0.286744;0.3;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;6;3.5;2.7;-0.8;77.142857;0;3.8;3.6;3.3;3.566667;0.20548;0.2;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;7;3.5;3.4;-0.1;97.142857;0;2.7;3.8;3.6;3.366667;0.478423;-1.1;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;8;3.5;3.1;-0.4;88.571429;0;3.4;2.7;3.8;3.3;0.454606;0.7;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;9;3.5;3.1;-0.4;88.571429;0;3.1;3.4;2.7;3.066667;0.286744;-0.3;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;10;3.5;3.7;0.2;105.714286;1;3.1;3.1;3.4;3.2;0.141421;0;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;11;3.5;3.4;-0.1;97.142857;0;3.7;3.1;3.1;3.3;0.282843;0.6;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2024;12;3.5;3.4;-0.1;97.142857;0;3.4;3.7;3.1;3.4;0.244949;-0.3;55;0;0;INF;%
+m20_1_papier;M020 Management intégrée Envirennement;Consommation Papier;2025;7;;;;;;3.4;3.4;3.7;3.5;0.141421;0;55;1;0;INF;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2023;7;;;;;;;;;;;;51;1;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;1;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;2;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;3;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;4;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;5;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;6;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;7;100;94;-6;94;0;94;94;94;94;0;0;51;1;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;8;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;9;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;10;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;11;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2024;12;100;94;-6;94;0;94;94;94;94;0;0;51;0;0;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2025;1;;;;;;94;94;94;94;0;0;51;1;1;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2025;2;;;;;;94;94;94;94;0;0;51;1;1;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2025;3;;;;;;94;94;94;94;0;0;51;1;1;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2025;4;;;;;;94;94;94;94;0;0;51;1;1;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2025;5;;;;;;94;94;94;94;0;0;51;1;1;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2025;6;;;;;;94;94;94;94;0;0;51;1;1;SUPP;%
+m20_1_SME;M020 Management intégrée Envirennement;T de conformité exigences Réglementaires Applicables (SME);2025;7;;;;;;94;94;94;94;0;0;51;1;0;SUPP;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;1;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;2;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;3;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;4;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;5;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;6;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;7;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;8;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;9;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;10;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;11;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_SME2;M020 Management intégrée Envirennement;Réclamations des Partie Intéressés (SME);2024;12;0;0;0;;1;0;0;0;0;0;0;52;0;0;INF;%
+m20_1_transp;;;2024;1;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;2;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;3;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;4;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;5;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;6;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;7;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;8;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;9;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;10;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;11;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_1_transp;;;2024;12;0;0;0;;1;0;0;0;0;0;0;56;0;0;;
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;1;95;96.67;1.67;101.757895;1;96.67;96.67;96.67;96.67;0;0;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;2;95;96.04;1.04;101.094737;1;96.67;96.67;96.67;96.67;0;0;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;3;95;98.67;3.67;103.863158;1;96.04;96.67;96.67;96.46;0.296985;-0.63;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;4;95;97.87;2.87;103.021053;1;98.67;96.04;96.67;97.126667;1.1212;2.63;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;5;95;98;3;103.157895;1;97.87;98.67;96.04;97.526667;1.100798;-0.8;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;6;95;99.2;4.2;104.421053;1;98;97.87;98.67;98.18;0.350523;0.13;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;7;95;99.6;4.6;104.842105;1;99.2;98;97.87;98.356667;0.598684;1.2;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;8;95;99.2;4.2;104.421053;1;99.6;99.2;98;98.933333;0.679869;0.4;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;9;95;99.6;4.6;104.842105;1;99.2;99.6;99.2;99.333333;0.188562;-0.4;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;10;95;98.27;3.27;103.442105;1;99.6;99.2;99.6;99.466667;0.188562;0.4;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;11;95;99.4;4.4;104.631579;1;98.27;99.6;99.2;99.023333;0.557155;-1.33;58;0;0;SUPP;%
+m20_2_konden;M020 Management intégrée Qualité;Satisfaction client;2024;12;95;98.98;3.98;104.189474;1;99.4;98.27;99.6;99.09;0.585548;1.13;58;0;0;SUPP;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;1;2000;800.1;-1199.9;40.005;0;800.1;800.1;800.1;800.1;0;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;2;2000;895.2;-1104.8;44.76;0;800.1;800.1;800.1;800.1;0;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;3;2000;1968;-32;98.4;0;895.2;800.1;800.1;831.8;44.83057;95.1;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;4;2000;0;-2000;0;0;1968;895.2;800.1;1221.1;529.56316;1072.8;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;5;2000;0;-2000;0;0;0;1968;895.2;954.4;804.522417;-1968;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;6;2000;0;-2000;0;0;0;0;1968;656;927.724097;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;7;2000;0;-2000;0;0;0;0;0;0;0;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;8;2000;0;-2000;0;0;0;0;0;0;0;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;9;2000;0;-2000;0;0;0;0;0;0;0;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;10;2000;0;-2000;0;0;0;0;0;0;0;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;11;2000;0;-2000;0;0;0;0;0;0;0;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2024;12;2000;0;-2000;0;0;0;0;0;0;0;0;59;0;0;INF;%
+m20_2_kosten;M020 Management intégrée Qualité;Coût Non qualité;2025;7;;;;;;0;0;0;0;0;0;59;1;0;INF;%
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2022;2;;;;;;;;;;;;57;1;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;1;10;15;5;150;1;15;15;15;15;0;0;57;1;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;2;10;0;-10;0;0;15;15;15;15;0;0;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;3;10;7;-3;70;0;0;15;15;10;7.071068;-15;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;4;10;0;-10;0;0;7;0;15;7.333333;6.128259;7;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;5;10;6;-4;60;0;0;7;0;2.333333;3.299832;-7;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;6;10;0;-10;0;0;6;0;7;4.333333;3.091206;6;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;7;10;0;-10;0;0;0;6;0;2;2.828427;-6;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;8;10;0;-10;0;0;0;0;6;2;2.828427;0;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;9;10;0;-10;0;0;0;0;0;0;0;0;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;10;10;0;-10;0;0;0;0;0;0;0;0;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;11;10;0;-10;0;0;0;0;0;0;0;0;57;0;0;INF;PPM
+m20_2_PPM;M020 Management intégrée Qualité;PPM Externe;2024;12;10;0;-10;0;0;0;0;0;0;0;0;57;0;0;INF;PPM
+m20_accid;;;2024;1;3000;0;-3000;0;0;0;0;0;0;0;0;61;0;0;;
+m20_accid;;;2024;2;3000;0;-3000;0;0;0;0;0;0;0;0;61;0;0;;
+m20_accid;;;2024;3;3000;0;-3000;0;0;0;0;0;0;0;0;61;0;0;;
+m20_accid;;;2024;4;3000;0;-3000;0;0;0;0;0;0;0;0;61;0;0;;
+m20_accid;;;2024;5;3000;0;-3000;0;0;0;0;0;0;0;0;61;0;0;;
+m20_accid;;;2024;6;3000;0;-3000;0;0;0;0;0;0;0;0;61;0;0;;
+m20_accid;;;2024;7;3000;0;-3000;0;0;0;0;0;0;0;0;61;0;0;;
+m20_accid;;;2024;8;3000;2523;-477;84.1;0;0;0;0;0;0;0;61;0;0;;
+m20_accid;;;2024;9;3000;0;-3000;0;0;2523;0;0;841;1189.353606;2523;61;0;0;;
+m20_accid;;;2024;10;3000;0;-3000;0;0;0;2523;0;841;1189.353606;-2523;61;0;0;;
+m20_accid;;;2024;11;3000;4294;1294;143.133333;1;0;0;2523;841;1189.353606;0;61;0;0;;
+m20_accid;;;2024;12;3000;0;-3000;0;0;4294;0;0;1431.333333;2024.211012;4294;61;0;0;;
+m20_Exig;;;2024;1;100;100;0;100;1;100;100;100;100;0;0;60;0;0;;
+m20_Exig;;;2024;2;100;100;0;100;1;100;100;100;100;0;0;60;0;0;;
+m20_Exig;;;2024;3;100;100;0;100;1;100;100;100;100;0;0;60;0;0;;
+m20_Exig;;;2024;4;100;100;0;100;1;100;100;100;100;0;0;60;0;0;;
+m20_Exig;;;2024;5;100;100;0;100;1;100;100;100;100;0;0;60;0;0;;
+m20_Exig;;;2024;6;100;100;0;100;1;100;100;100;100;0;0;60;0;0;;
+m20_Exig;;;2024;7;100;94;-6;94;0;100;100;100;100;0;0;60;0;0;;
+m20_Exig;;;2024;8;100;100;0;100;1;94;100;100;98;2.828427;-6;60;0;0;;
+m20_Exig;;;2024;9;100;100;0;100;1;100;94;100;98;2.828427;6;60;0;0;;
+m20_Exig;;;2024;10;100;100;0;100;1;100;100;94;98;2.828427;0;60;0;0;;
+m20_Exig;;;2024;11;100;100;0;100;1;100;100;100;100;0;0;60;0;0;;
+m20_Exig;;;2024;12;10;100;90;1000;1;100;100;100;100;0;0;60;0;0;;
+m20_maladi;;;2024;1;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;2;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;3;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;4;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;5;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;6;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;7;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;8;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;9;1;0;-1;0;0;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;10;1;1;0;100;1;0;0;0;0;0;0;62;0;0;;
+m20_maladi;;;2024;11;1;0;-1;0;0;1;0;0;0.333333;0.471405;1;62;0;0;;
+m20_maladi;;;2024;12;1;0;-1;0;0;0;1;0;0.333333;0.471405;-1;62;0;0;;
+m20_mortel;;;2024;1;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;2;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;3;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;4;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;5;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;6;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;7;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;8;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;9;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;10;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;11;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m20_mortel;;;2024;12;0;0;0;;1;0;0;0;0;0;0;63;0;0;;
+m30_Abwes;;;2024;1;2;1.61;-0.39;80.5;0;1.61;1.61;1.61;1.61;0;0;64;0;0;;
+m30_Abwes;;;2024;2;2;2.12;0.12;106;1;1.61;1.61;1.61;1.61;0;0;64;0;0;;
+m30_Abwes;;;2024;3;2;1.73;-0.27;86.5;0;2.12;1.61;1.61;1.78;0.240416;0.51;64;0;0;;
+m30_Abwes;;;2024;4;2;1.8;-0.2;90;0;1.73;2.12;1.61;1.82;0.217715;-0.39;64;0;0;;
+m30_Abwes;;;2024;5;2;1.76;-0.24;88;0;1.8;1.73;2.12;1.883333;0.169771;0.07;64;0;0;;
+m30_Abwes;;;2024;6;2;1.44;-0.56;72;0;1.76;1.8;1.73;1.763333;0.028674;-0.04;64;0;0;;
+m30_Abwes;;;2024;7;2;1.9;-0.1;95;0;1.44;1.76;1.8;1.666667;0.161107;-0.32;64;0;0;;
+m30_Abwes;;;2024;8;2;2.99;0.99;149.5;1;1.9;1.44;1.76;1.7;0.192527;0.46;64;0;0;;
+m30_Abwes;;;2024;9;2;5.04;3.04;252;1;2.99;1.9;1.44;2.11;0.649974;1.09;64;0;0;;
+m30_Abwes;;;2024;10;2;3.57;1.57;178.5;1;5.04;2.99;1.9;3.31;1.301717;2.05;64;0;0;;
+m30_Abwes;;;2024;11;2;1.92;-0.08;96;0;3.57;5.04;2.99;3.866667;0.862799;-1.47;64;0;0;;
+m30_Abwes;;;2024;12;2;0.88;-1.12;44;0;1.92;3.57;5.04;3.51;1.274441;-1.65;64;0;0;;
+m30_Abwes;;;2025;1;2.6;1.13;-1.47;43.461538;0;0.88;1.92;3.57;2.123333;1.10756;-1.04;64;0;0;;
+m30_Abwes;;;2025;2;2.6;3.14;0.54;120.769231;1;1.13;0.88;1.92;1.31;0.443246;0.25;64;0;0;;
+m30_Abwes;;;2025;3;2.6;2.55;-0.05;98.076923;0;3.14;1.13;0.88;1.716667;1.01161;2.01;64;0;0;;
+m30_Abwes;;;2025;4;2.6;2.03;-0.57;78.076923;0;2.55;3.14;1.13;2.273333;0.843577;-0.59;64;0;0;;
+m30_Abwes;;;2025;5;2.6;1.3;-1.3;50;0;2.03;2.55;3.14;2.573333;0.453456;-0.52;64;0;0;;
+m30_Abwes;;;2025;6;2.6;1.99;-0.61;76.538462;0;1.3;2.03;2.55;1.96;0.512705;-0.73;64;0;0;;
+m30_Abwes;;;2025;7;2.6;0;-2.6;0;0;1.99;1.3;2.03;1.773333;0.335095;0.69;64;0;0;;
+m30_Abwes;;;2025;8;2.6;0;-2.6;0;0;0;1.99;1.3;1.096667;0.825039;-1.99;64;0;0;;
+m30_Abwes;;;2025;9;2.6;0;-2.6;0;0;0;0;1.99;0.663333;0.938095;0;64;0;0;;
+m30_Abwes;;;2025;10;2.6;0;-2.6;0;0;0;0;0;0;0;0;64;0;0;;
+m30_Abwes;;;2025;11;2.6;0;-2.6;0;0;0;0;0;0;0;0;64;0;0;;
+m30_Abwes;;;2025;12;2.6;0;-2.6;0;0;0;0;0;0;0;0;64;0;0;;
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2023;1;;;;;;;;;;;;65;1;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;1;1.5;1.12;-0.38;74.666667;0;1.12;1.12;1.12;1.12;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;2;1.5;1.09;-0.41;72.666667;0;1.12;1.12;1.12;1.12;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;3;1.5;1.33;-0.17;88.666667;0;1.09;1.12;1.12;1.11;0.014142;-0.03;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;4;1.5;0.46;-1.04;30.666667;0;1.33;1.09;1.12;1.18;0.106771;0.24;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;5;1.5;1.05;-0.45;70;0;0.46;1.33;1.09;0.96;0.366879;-0.87;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;6;1.5;0.23;-1.27;15.333333;0;1.05;0.46;1.33;0.946667;0.362614;0.59;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;7;1.5;0.47;-1.03;31.333333;0;0.23;1.05;0.46;0.58;0.34535;-0.82;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;8;1.5;1.49;-0.01;99.333333;0;0.47;0.23;1.05;0.583333;0.344222;0.24;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;9;1.5;1.44;-0.06;96;0;1.49;0.47;0.23;0.73;0.54626;1.02;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;10;1.5;1.05;-0.45;70;0;1.44;1.49;0.47;1.133333;0.469491;-0.05;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;11;1.5;0.36;-1.14;24;0;1.05;1.44;1.49;1.326667;0.196695;-0.39;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2024;12;1.5;0.04;-1.46;2.666667;0;0.36;1.05;1.44;0.95;0.446542;-0.69;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;1;0;0;0;;1;0.04;0.36;1.05;0.483333;0.421453;-0.32;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;2;0;0;0;;1;0;0.04;0.36;0.133333;0.161107;-0.04;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;3;0;0;0;;1;0;0;0.04;0.013333;0.018856;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;4;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;5;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;6;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;7;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;8;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;9;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;10;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;11;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_fertig;M030 Management des ressources humaines;Temps d’arrêt de la production;2025;12;0;0;0;;1;0;0;0;0;0;0;65;0;0;INF;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;1;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;2;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;3;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;4;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;5;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;6;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;7;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;8;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;9;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;10;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;11;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2024;12;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;1;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;2;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;3;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;4;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;5;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;6;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;7;100;100;0;100;1;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;8;100;0;-100;0;0;100;100;100;100;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;9;100;0;-100;0;0;0;100;100;66.666667;47.140452;-100;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;10;100;0;-100;0;0;0;0;100;33.333333;47.140452;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;11;100;0;-100;0;0;0;0;0;0;0;0;66;0;0;SUPP;%
+m30_qualif;M030 Management des ressources humaines;Taux de qualification;2025;12;100;0;-100;0;0;0;0;0;0;0;0;66;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;1;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;2;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;3;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;4;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;5;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;6;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;7;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;8;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;9;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;10;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;11;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2024;12;95;100;5;105.263158;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;1;98;100;2;102.040816;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;2;98;100;2;102.040816;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;3;98;100;2;102.040816;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;4;98;100;2;102.040816;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;5;98;100;2;102.040816;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;6;98;100;2;102.040816;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;7;98;100;2;102.040816;1;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;8;98;0;-98;0;0;100;100;100;100;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;9;98;0;-98;0;0;0;100;100;66.666667;47.140452;-100;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;10;98;0;-98;0;0;0;0;100;33.333333;47.140452;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;11;98;0;-98;0;0;0;0;0;0;0;0;67;0;0;SUPP;%
+m30_schul;M030 Management des ressources humaines;Mise en œuvre de la formation;2025;12;98;0;-98;0;0;0;0;0;0;0;0;67;0;0;SUPP;%
+m30_smeold;;;2024;1;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;2;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;3;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;4;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;5;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;6;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;7;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;8;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;9;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;10;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;11;0;;;;;;;;;;;68;0;0;;
+m30_smeold;;;2024;12;0;;;;;;;;;;;68;0;0;;
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;1;2;2;0;100;1;2;2;2;2;0;0;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;2;2;2;0;100;1;2;2;2;2;0;0;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;3;2;4;2;200;1;2;2;2;2;0;0;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;4;2;3;1;150;1;4;2;2;2.666667;0.942809;2;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;5;2;4;2;200;1;3;4;2;3;0.816497;-1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;6;2;2;0;100;1;4;3;4;3.666667;0.471405;1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;7;2;2;0;100;1;2;4;3;3;0.816497;-2;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;8;2;3;1;150;1;2;2;4;2.666667;0.942809;0;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;9;2;4;2;200;1;3;2;2;2.333333;0.471405;1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;10;2;3;1;150;1;4;3;2;3;0.816497;1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;11;2;2;0;100;1;3;4;3;3.333333;0.471405;-1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2024;12;2;2;0;100;1;2;3;4;3;0.816497;-1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;1;2;4;2;200;1;2;2;3;2.333333;0.471405;0;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;2;2;4;2;200;1;4;2;2;2.666667;0.942809;2;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;3;2;3;1;150;1;4;4;2;3.333333;0.942809;0;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;4;2;2;0;100;1;3;4;4;3.666667;0.471405;-1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;5;2;5;3;250;1;2;3;4;3;0.816497;-1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;6;2;6;4;300;1;5;2;3;3.333333;1.247219;3;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;7;2;4;2;200;1;6;5;2;4.333333;1.699673;1;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;8;2;0;-2;0;0;4;6;5;5;0.816497;-2;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;9;2;0;-2;0;0;0;4;6;3.333333;2.494438;-4;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;10;2;0;-2;0;0;0;0;4;1.333333;1.885618;0;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;11;2;0;-2;0;0;0;0;0;0;0;0;69;0;0;SUPP;%
+m30_sst;M030 Management des ressources humaines;Nbr des actions de formation/sensibilisation SST/SME;2025;12;2;0;-2;0;0;0;0;0;0;0;0;69;0;0;SUPP;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;1;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;2;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;3;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;4;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;5;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;6;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;7;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;8;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;9;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;10;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;11;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2024;12;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;1;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;2;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;3;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;4;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;5;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;6;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;7;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;8;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;9;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;10;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;11;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1inventaire;S010 Maintenance   Magasin PD;Ecart Inventaire;2025;12;0;0;0;;1;0;0;0;0;0;0;1;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;1;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;2;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;3;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;4;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;5;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;6;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;7;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;8;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;9;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;10;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;11;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2024;12;7;0;-7;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;1;5;0;-5;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;2;5;0;-5;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;3;5;0;-5;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;4;5;0;-5;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;5;5;0;-5;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;6;5;0;-5;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;7;5;1;-4;20;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;8;5;0;-5;0;0;1;0;0;0.333333;0.471405;1;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;9;5;0;-5;0;0;0;1;0;0.333333;0.471405;-1;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;10;5;0;-5;0;0;0;0;1;0.333333;0.471405;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;11;5;0;-5;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1repture;S010 Maintenance  Magasin PD;Rupture de Stock;2025;12;5;0;-5;0;0;0;0;0;0;0;0;2;0;0;INF;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;1;100;94;-6;94;0;94;94;94;94;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;2;100;94;-6;94;0;94;94;94;94;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;3;100;94;-6;94;0;94;94;94;94;0;0;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;4;100;94;-6;94;0;94;94;94;94;0;0;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;5;100;94;-6;94;0;94;94;94;94;0;0;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;6;100;94;-6;94;0;94;94;94;94;0;0;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;7;100;94;-6;94;0;94;94;94;94;0;0;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;8;100;94;-6;94;0;94;94;94;94;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;9;100;94;-6;94;0;94;94;94;94;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;10;100;94;-6;94;0;94;94;94;94;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;11;100;94;-6;94;0;94;94;94;94;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2024;12;100;94;-6;94;0;94;94;94;94;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;1;100;80.95;-19.05;80.95;0;94;94;94;94;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;2;100;80.95;-19.05;80.95;0;80.95;94;94;89.65;6.151829;-13.05;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;3;100;90.91;-9.09;90.91;0;80.95;80.95;94;85.3;6.151829;0;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;4;100;95.45;-4.55;95.45;0;90.91;80.95;80.95;84.27;4.695189;9.96;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;5;100;95.45;-4.55;95.45;0;95.45;90.91;80.95;89.103333;6.055881;4.54;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;6;100;95.45;-4.55;95.45;0;95.45;95.45;90.91;93.936667;2.140177;0;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;7;100;95.45;-4.55;95.45;0;95.45;95.45;95.45;95.45;0;0;3;1;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;8;100;0;-100;0;0;95.45;95.45;95.45;95.45;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;9;100;0;-100;0;0;0;95.45;95.45;63.633333;44.995562;-95.45;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;10;100;0;-100;0;0;0;0;95.45;31.816667;44.995562;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;11;100;0;-100;0;0;0;0;0;0;0;0;3;0;0;SUPP;%
+S10_1satisf;S010 Maintenance   Magasin PD;Taux de satisfaction exigence réglementaire (SST SSME);2025;12;100;0;-100;0;0;0;0;0;0;0;0;3;0;0;SUPP;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;1;2.5;1.82;-0.68;72.8;0;1.82;1.82;1.82;1.82;0;0;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;2;2.5;1.8;-0.7;72;0;1.82;1.82;1.82;1.82;0;0;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;3;2.5;1.9;-0.6;76;0;1.8;1.82;1.82;1.813333;0.009428;-0.02;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;4;2.5;1.93;-0.57;77.2;0;1.9;1.8;1.82;1.84;0.043205;0.1;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;5;2.5;1.95;-0.55;78;0;1.93;1.9;1.8;1.876667;0.055578;0.03;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;6;2.5;2.01;-0.49;80.4;0;1.95;1.93;1.9;1.926667;0.020548;0.02;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;7;2.5;2.04;-0.46;81.6;0;2.01;1.95;1.93;1.963333;0.033993;0.06;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;8;2.5;2.05;-0.45;82;0;2.04;2.01;1.95;2;0.037417;0.03;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;9;2.5;2.13;-0.37;85.2;0;2.05;2.04;2.01;2.033333;0.016997;0.01;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;10;2.5;2.14;-0.36;85.6;0;2.13;2.05;2.04;2.073333;0.040277;0.08;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;11;2.5;2.16;-0.34;86.4;0;2.14;2.13;2.05;2.106667;0.040277;0.01;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2024;12;2.5;1.54;-0.96;61.6;0;2.16;2.14;2.13;2.143333;0.012472;0.02;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;1;1.8;1.57;-0.23;87.222222;0;1.54;2.16;2.14;1.946667;0.287673;-0.62;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;2;1.8;1.57;-0.23;87.222222;0;1.57;1.54;2.16;1.756667;0.285463;0.03;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;3;1.8;1.61;-0.19;89.444444;0;1.57;1.57;1.54;1.56;0.014142;0;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;4;1.8;1.64;-0.16;91.111111;0;1.61;1.57;1.57;1.583333;0.018856;0.04;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;5;1.8;1.65;-0.15;91.666667;0;1.64;1.61;1.57;1.606667;0.028674;0.03;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;6;1.8;1.67;-0.13;92.777778;0;1.65;1.64;1.61;1.633333;0.016997;0.01;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;7;1.8;1.67;-0.13;92.777778;0;1.67;1.65;1.64;1.653333;0.012472;0.02;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;8;1.8;0;-1.8;0;0;1.67;1.67;1.65;1.663333;0.009428;0;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;9;1.8;0;-1.8;0;0;0;1.67;1.67;1.113333;0.787246;-1.67;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;10;1.8;0;-1.8;0;0;0;0;1.67;0.556667;0.787246;0;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;11;1.8;0;-1.8;0;0;0;0;0;0;0;0;4;0;0;INF;%
+S10_1stockage;S010 Maintenance  Magasin PD;Coût de Stockage;2025;12;1.8;0;-1.8;0;0;0;0;0;0;0;0;4;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;1;0;2;2;;1;2;2;2;2;0;0;7;1;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;2;0;2;2;;1;2;2;2;2;0;0;7;1;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;3;0;2;2;;1;2;2;2;2;0;0;7;1;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;4;0;2;2;;1;2;2;2;2;0;0;7;1;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;5;0;2;2;;1;2;2;2;2;0;0;7;1;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;6;0;2;2;;1;2;2;2;2;0;0;7;1;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;7;0;2;2;;1;2;2;2;2;0;0;7;1;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;8;0;2;2;;1;2;2;2;2;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;9;0;2;2;;1;2;2;2;2;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;10;0;2;2;;1;2;2;2;2;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;11;0;2;2;;1;2;2;2;2;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2024;12;0;2;2;;1;2;2;2;2;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;1;0;0;0;;1;2;2;2;2;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;2;0;0;0;;1;0;2;2;1.333333;0.942809;-2;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;3;0;0;0;;1;0;0;2;0.666667;0.942809;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;4;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;5;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;6;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;7;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;8;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;9;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;10;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;11;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_enviro;S010 Maintenance;Nbr des ecarts Environnmental et SST;2025;12;0;0;0;;1;0;0;0;0;0;0;7;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;1;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;2;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;3;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;4;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;5;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;6;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;7;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;8;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;9;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;10;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;11;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2024;12;0;0;0;;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;1;1;0;-1;0;0;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;2;1;0;-1;0;0;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;3;1;0;-1;0;0;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;4;1;0;-1;0;0;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;5;1;0;-1;0;0;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;6;1;0;-1;0;0;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;7;1;1;0;100;1;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;8;1;0;-1;0;0;1;0;0;0.333333;0.471405;1;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;9;1;0;-1;0;0;0;1;0;0.333333;0.471405;-1;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;10;1;0;-1;0;0;0;0;1;0.333333;0.471405;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;11;1;0;-1;0;0;0;0;0;0;0;0;8;0;0;INF;%
+S10_incident;S010 Maintenance;Nbr des incidents SST reclamée;2025;12;1;0;-1;0;0;0;0;0;0;0;0;8;0;0;INF;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;1;10000;12136;2136;121.36;1;12136;12136;12136;12136;0;0;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;2;10000;24282;14282;242.82;1;12136;12136;12136;12136;0;0;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;3;10000;11629;1629;116.29;1;24282;12136;12136;16184.666667;5725.67931;12146;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;4;10000;30786;20786;307.86;1;11629;24282;12136;16015.666667;5848.843893;-12653;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;5;10000;25839;15839;258.39;1;30786;11629;24282;22232.333333;7953.972271;19157;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;6;10000;29045;19045;290.45;1;25839;30786;11629;22751.333333;8119.849191;-4947;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;7;10000;38464;28464;384.64;1;29045;25839;30786;28556.666667;2048.910984;3206;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;8;10000;10495;495;104.95;1;38464;29045;25839;31116;5358.136305;9419;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;9;10000;30675;20675;306.75;1;10495;38464;29045;26001.333333;11619.356561;-27969;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;10;10000;21477;11477;214.77;1;30675;10495;38464;26544.666667;11785.894969;20180;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;11;10000;15597;5597;155.97;1;21477;30675;10495;20882.333333;8249.174558;-9198;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2024;12;10000;12886;2886;128.86;1;15597;21477;30675;22583;6205.048912;-5880;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;1;14000;14406;406;102.9;1;12886;15597;21477;16653.333333;3585.916929;-2711;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;2;25000;27319;2319;109.276;1;14406;12886;15597;14296.333333;1109.47445;1520;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;3;25000;30409;5409;121.636;1;27319;14406;12886;18203.666667;6475.31602;12913;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;4;25000;23373;-1627;93.492;0;30409;27319;14406;24044.666667;6931.327258;3090;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;5;25000;29476;4476;117.904;1;23373;30409;27319;27033.666667;2879.51215;-7036;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;6;25000;33491;8491;133.964;1;29476;23373;30409;27752.666667;3120.227805;6103;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;7;25000;49371;24371;197.484;1;33491;29476;23373;28780;4159.871232;4015;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;8;25000;0;-25000;0;0;49371;33491;29476;37446;8590.08246;15880;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;9;25000;0;-25000;0;0;0;49371;33491;27620.666667;20578.621922;-49371;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;10;25000;0;-25000;0;0;0;0;49371;16457;23273.712596;0;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;11;25000;0;-25000;0;0;0;0;0;0;0;0;5;0;0;SUPP;%
+S10_MTBF;S010 Maintenance;MTBF (T moyen entre 2 arrêt machines);2025;12;25000;0;-25000;0;0;0;0;0;0;0;0;5;0;0;SUPP;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;1;19;18;-1;94.736842;0;18;18;18;18;0;0;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;2;19;19;0;100;1;18;18;18;18;0;0;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;3;19;19;0;100;1;19;18;18;18.333333;0.471405;1;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;4;19;18;-1;94.736842;0;19;19;18;18.666667;0.471405;0;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;5;19;24;5;126.315789;0;18;19;19;18.666667;0.471405;-1;6;1;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;6;19;16;-3;84.210526;0;24;18;19;20.333333;2.624669;6;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;7;19;19;0;100;1;16;24;18;19.333333;3.399346;-8;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;8;19;19;0;100;1;19;16;24;19.666667;3.299832;3;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;9;19;21;2;110.526316;0;19;19;16;18;1.414214;0;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;10;19;41;22;215.789474;0;21;19;19;19.666667;0.942809;2;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;11;19;14;-5;73.684211;0;41;21;19;27;9.93311;20;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2024;12;19;7;-12;36.842105;0;14;41;21;25.333333;11.440668;-27;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;1;19;15;-4;78.947368;0;7;14;41;20.666667;14.659089;-7;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;2;19;17;-2;89.473684;0;15;7;14;12;3.559026;8;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;3;19;18;-1;94.736842;0;17;15;7;13;4.320494;2;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;4;19;17;-2;89.473684;0;18;17;15;16.666667;1.247219;1;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;5;19;16;-3;84.210526;0;17;18;17;17.333333;0.471405;-1;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;6;19;17;-2;89.473684;0;16;17;18;17;0.816497;-1;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;7;19;18;-1;94.736842;0;17;16;17;16.666667;0.471405;1;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;8;19;0;-19;0;0;18;17;16;17;0.816497;1;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;9;19;0;-19;0;0;0;18;17;11.666667;8.259674;-18;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;10;19;0;-19;0;0;0;0;18;6;8.485281;0;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;11;19;0;-19;0;0;0;0;0;0;0;0;6;0;0;=;%
+S10_MTTR;S010 Maintenance;MTTR (Temps de réparation des machines);2025;12;19;0;-19;0;0;0;0;0;0;0;0;6;0;0;=;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;1;98;99;1;101.020408;1;99;99;99;99;0;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;2;98;99;1;101.020408;1;99;99;99;99;0;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;3;98;99;1;101.020408;1;99;99;99;99;0;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;4;98;99;1;101.020408;1;99;99;99;99;0;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;5;98;100;2;102.040816;1;99;99;99;99;0;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;6;98;100;2;102.040816;1;100;99;99;99.333333;0.471405;1;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;7;98;100;2;102.040816;1;100;100;99;99.666667;0.471405;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;8;98;100;2;102.040816;1;100;100;100;100;0;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;9;98;99.68;1.68;101.714286;1;100;100;100;100;0;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;10;98;99.28;1.28;101.306122;1;99.68;100;100;99.893333;0.150849;-0.32;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;11;98;99.75;1.75;101.785714;1;99.28;99.68;100;99.653333;0.294543;-0.4;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2024;12;98;99.87;1.87;101.908163;1;99.75;99.28;99.68;99.57;0.207043;0.47;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;1;99;99.65;0.65;100.656566;1;99.87;99.75;99.28;99.633333;0.254602;0.12;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;2;99;99.78;0.78;100.787879;1;99.65;99.87;99.75;99.756667;0.089938;-0.22;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;3;99;99.8;0.8;100.808081;1;99.78;99.65;99.87;99.766667;0.090308;0.13;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;4;99;99.81;0.81;100.818182;1;99.8;99.78;99.65;99.743333;0.0665;0.02;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;5;99;99.84;0.84;100.848485;1;99.81;99.8;99.78;99.796667;0.012472;0.01;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;6;99;99.91;0.91;100.919192;1;99.84;99.81;99.8;99.816667;0.016997;0.03;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;7;99;99.82;0.82;100.828283;1;99.91;99.84;99.81;99.853333;0.041899;0.07;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;8;99;0;-99;0;0;99.82;99.91;99.84;99.856667;0.038586;-0.09;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;9;99;0;-99;0;0;0;99.82;99.91;66.576667;47.076827;-99.82;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;10;99;0;-99;0;0;0;0;99.82;33.273333;47.055599;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;11;99;0;-99;0;0;0;0;0;0;0;0;9;0;0;SUPP;%
+S10_verfug;S010 Maintenance;Disponibilité des machines;2025;12;99;0;-99;0;0;0;0;0;0;0;0;9;0;0;SUPP;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;1;500;939;439;187.8;1;939;939;939;939;0;0;70;1;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;2;500;642;142;128.4;1;939;939;939;939;0;0;70;1;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;3;500;579;79;115.8;1;642;939;939;840;140.007143;-297;70;1;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;4;500;314;-186;62.8;0;579;642;939;720;156.977705;-63;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;5;500;945;445;189;1;314;579;642;511.666667;142.118104;-265;70;1;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;6;500;313;-187;62.6;0;945;314;579;612.666667;258.702317;631;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;7;500;342;-158;68.4;0;313;945;314;524;297.692235;-632;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;8;500;188.2;-311.8;37.64;0;342;313;945;533.333333;291.332952;29;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;9;500;412.8;-87.2;82.56;0;188.2;342;313;281.066667;66.725374;-153.8;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;10;500;460.8;-39.2;92.16;0;412.8;188.2;342;314.333333;93.756327;224.6;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;11;500;419.8;-80.2;83.96;0;460.8;412.8;188.2;353.933333;118.818218;48;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2023;12;500;121.6;-378.4;24.32;0;419.8;460.8;412.8;431.133333;21.171259;-41;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;1;650;667;17;102.615385;1;121.6;419.8;460.8;334.066667;151.166163;-298.2;70;1;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;2;650;681;31;104.769231;1;667;121.6;419.8;402.8;222.982869;545.4;70;1;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;3;650;451;-199;69.384615;0;681;667;121.6;489.866667;260.466573;14;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;4;650;469;-181;72.153846;0;451;681;667;599.666667;105.278467;-230;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;5;650;1206;556;185.538462;1;469;451;681;533.666667;104.439243;18;70;1;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;6;650;421;-229;64.769231;0;1206;469;451;708.666667;351.744541;737;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;7;650;367;-283;56.461538;0;421;1206;469;698.666667;359.27365;-785;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;8;650;370;-280;56.923077;0;367;421;1206;664.666667;383.414774;-54;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;9;650;650;0;100;1;370;367;421;386;24.779023;3;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;10;650;632;-18;97.230769;0;650;370;367;462.333333;132.706024;280;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;11;650;998;348;153.538462;1;632;650;370;550.666667;127.9618;-18;70;0;0;INF;%
+s20-cout;S020 Assurance Qualité;Coût de rebut;2024;12;650;304;-346;46.769231;0;998;632;650;760;168.451774;366;70;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;1;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;2;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;3;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;4;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;5;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;6;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;7;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;8;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;9;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;10;20;0;-20;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;11;20;8;-12;40;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2023;12;20;0;-20;0;0;8;0;0;2.666667;3.771236;8;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;1;10;15;5;150;1;0;8;0;2.666667;3.771236;-8;71;1;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;2;10;0;-10;0;0;15;0;8;7.666667;6.128259;15;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;3;10;7;-3;70;0;0;15;0;5;7.071068;-15;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;4;10;0;-10;0;0;7;0;15;7.333333;6.128259;7;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;5;10;6;-4;60;0;0;7;0;2.333333;3.299832;-7;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;6;10;0;-10;0;0;6;0;7;4.333333;3.091206;6;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;7;10;0;-10;0;0;0;6;0;2;2.828427;-6;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;8;10;0;-10;0;0;0;0;6;2;2.828427;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;9;10;0;-10;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;10;10;0;-10;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;11;10;0;-10;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-externe;S020 Assurance Qualité;PPM Externe;2024;12;10;0;-10;0;0;0;0;0;0;0;0;71;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;1;55;59;4;107.272727;1;59;59;59;59;0;0;72;1;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;2;55;50;-5;90.909091;0;59;59;59;59;0;0;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;3;55;23;-32;41.818182;0;50;59;59;56;4.242641;-9;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;4;55;23;-32;41.818182;0;23;50;59;44;15.297059;-27;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;5;55;42;-13;76.363636;0;23;23;50;32;12.727922;0;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;6;55;27;-28;49.090909;0;42;23;23;29.333333;8.956686;19;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;7;55;22;-33;40;0;27;42;23;30.666667;8.178563;-15;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;8;55;23;-32;41.818182;0;22;27;42;30.333333;8.498366;-5;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;9;55;27;-28;49.090909;0;23;22;27;24;2.160247;1;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;10;55;54;-1;98.181818;0;27;23;22;24;2.160247;4;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;11;55;42;-13;76.363636;0;54;27;23;34.666667;13.767918;27;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2023;12;55;45;-10;81.818182;0;42;54;27;41;11.045361;-12;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;1;30;23;-7;76.666667;0;45;42;54;47;5.09902;3;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;2;30;25;-5;83.333333;0;23;45;42;36.666667;9.741093;-22;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;3;30;22;-8;73.333333;0;25;23;45;31;9.93311;2;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;4;30;6;-24;20;0;22;25;23;23.333333;1.247219;-3;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;5;30;9;-21;30;0;6;22;25;17.666667;8.339997;-16;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;6;30;5;-25;16.666667;0;9;6;22;12.333333;6.944222;3;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;7;30;12;-18;40;0;5;9;6;6.666667;1.699673;-4;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;8;30;23;-7;76.666667;0;12;5;9;8.666667;2.867442;7;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;9;30;17;-13;56.666667;0;23;12;5;13.333333;7.408704;11;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;10;30;12;-18;40;0;17;23;12;17.333333;4.496913;-6;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;11;30;14;-16;46.666667;0;12;17;23;17.333333;4.496913;-5;72;0;0;INF;%
+s20-interne;S020 Assurance Qualité;PPM Interne;2024;12;30;12;-18;40;0;14;12;17;14.333333;2.054805;2;72;0;0;INF;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;1;74;75;1;101.351351;1;75;75;75;75;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;2;74;75;1;101.351351;1;75;75;75;75;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;3;74;75;1;101.351351;1;75;75;75;75;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;4;74;76.6;2.6;103.513514;1;75;75;75;75;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;5;74;76.6;2.6;103.513514;1;76.6;75;75;75.533333;0.754247;1.6;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;6;74;76.6;2.6;103.513514;1;76.6;76.6;75;76.066667;0.754247;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;7;74;76.6;2.6;103.513514;1;76.6;76.6;76.6;76.6;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;8;74;76.6;2.6;103.513514;1;76.6;76.6;76.6;76.6;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;9;74;76.6;2.6;103.513514;1;76.6;76.6;76.6;76.6;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;10;74;76.6;2.6;103.513514;1;76.6;76.6;76.6;76.6;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;11;74;76.6;2.6;103.513514;1;76.6;76.6;76.6;76.6;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2024;12;74;76.6;2.6;103.513514;1;76.6;76.6;76.6;76.6;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;1;80;76;-4;95;0;76.6;76.6;76.6;76.6;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;2;80;82;2;102.5;1;76;76.6;76.6;76.4;0.282843;-0.6;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;3;80;82;2;102.5;1;82;76;76.6;78.2;2.698148;6;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;4;80;82;2;102.5;1;82;82;76;80;2.828427;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;5;80;82;2;102.5;1;82;82;82;82;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;6;80;82;2;102.5;1;82;82;82;82;0;0;73;1;1;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;7;80;0;-80;0;0;82;82;82;82;0;0;73;1;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;8;80;0;-80;0;0;0;82;82;54.666667;38.655171;-82;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;9;80;0;-80;0;0;0;0;82;27.333333;38.655171;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;10;80;0;-80;0;0;0;0;0;0;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;11;80;0;-80;0;0;0;0;0;0;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2025;12;80;0;-80;0;0;0;0;0;0;0;0;73;0;0;SUPP;%
+s40_fournis;S040 Achat;Taux des fournisseurs engagés environnement;2026;1;50;55;5;110;1;0;0;0;0;0;0;73;0;0;;
+s40_materiel;S040 Achat;Coût de la matière première;2024;1;62;56.13;-5.87;90.532258;0;56.13;56.13;56.13;56.13;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;2;62;48.89;-13.11;78.854839;0;56.13;56.13;56.13;56.13;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;3;62;51.01;-10.99;82.274194;0;48.89;56.13;56.13;53.716667;3.412969;-7.24;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;4;62;55.31;-6.69;89.209677;0;51.01;48.89;56.13;52.01;3.039123;2.12;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;5;62;60.18;-1.82;97.064516;0;55.31;51.01;48.89;51.736667;2.670847;4.3;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;6;62;61.6;-0.4;99.354839;0;60.18;55.31;51.01;55.5;3.746047;4.87;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;7;62;61.9;-0.1;99.83871;0;61.6;60.18;55.31;59.03;2.69356;1.42;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;8;62;61.1;-0.9;98.548387;0;61.9;61.6;60.18;61.226667;0.75017;0.3;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;9;62;60.8;-1.2;98.064516;0;61.1;61.9;61.6;61.533333;0.329983;-0.8;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;10;62;61.5;-0.5;99.193548;0;60.8;61.1;61.9;61.266667;0.46428;-0.3;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;11;62;60.7;-1.3;97.903226;0;61.5;60.8;61.1;61.133333;0.286744;0.7;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2024;12;62;60.9;-1.1;98.225806;0;60.7;61.5;60.8;61;0.355903;-0.8;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;1;0;0;0;;1;60.9;60.7;61.5;61.033333;0.339935;0.2;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;2;0;0;0;;1;0;60.9;60.7;40.533333;28.661511;-60.9;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;3;0;0;0;;1;0;0;60.9;20.3;28.708535;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;4;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;5;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;6;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;7;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;8;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;9;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;10;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;11;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2025;12;0;0;0;;1;0;0;0;0;0;0;74;0;0;INF;%
+s40_materiel;S040 Achat;Coût de la matière première;2026;1;50;40;-10;80;0;0;0;0;0;0;0;74;0;0;;
+s40_materiel;S040 Achat;Coût de la matière première;2026;2;40;32;-8;80;0;40;0;0;13.333333;18.856181;40;74;0;0;;
+s40_materiel;S040 Achat;Coût de la matière première;2026;3;30;33;3;110;1;32;40;0;24;17.281975;-8;74;0;0;;
+s40_materiel;S040 Achat;Coût de la matière première;2026;4;45;;;;;33;32;40;35;3.559026;1;74;0;0;;
+s40_reduction;S040 Achat;Réduction de coût;2024;1;5;6.57;1.57;131.4;1;6.57;6.57;6.57;6.57;0;0;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;2;5;9.68;4.68;193.6;1;6.57;6.57;6.57;6.57;0;0;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;3;5;6.72;1.72;134.4;1;9.68;6.57;6.57;7.606667;1.466068;3.11;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;4;5;6.63;1.63;132.6;1;6.72;9.68;6.57;7.656667;1.432023;-2.96;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;5;5;20.21;15.21;404.2;1;6.63;6.72;9.68;7.676667;1.417047;-0.09;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;6;5;13.96;8.96;279.2;1;20.21;6.63;6.72;11.186667;6.380566;13.58;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;7;5;7.42;2.42;148.4;1;13.96;20.21;6.63;13.6;5.549853;-6.25;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;8;5;25.52;20.52;510.4;1;7.42;13.96;20.21;13.863333;5.221943;-6.54;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;9;5;19.54;14.54;390.8;1;25.52;7.42;13.96;15.633333;7.483428;18.1;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;10;5;19.64;14.64;392.8;1;19.54;25.52;7.42;17.493333;7.529681;-5.98;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;11;5;8.57;3.57;171.4;1;19.64;19.54;25.52;21.566667;2.795727;0.1;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2024;12;5;9.65;4.65;193;1;8.57;19.64;19.54;15.916667;5.195038;-11.07;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;1;0.5;0.16;-0.34;32;0;9.65;8.57;19.64;12.62;4.983433;1.08;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;2;0.5;0.03;-0.47;6;0;0.16;9.65;8.57;6.126667;4.242046;-9.49;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;3;0.5;1.09;0.59;218;1;0.03;0.16;9.65;3.28;4.504583;-0.13;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;4;0.5;0.87;0.37;174;1;1.09;0.03;0.16;0.426667;0.47204;1.06;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;5;0.5;1.07;0.57;214;1;0.87;1.09;0.03;0.663333;0.456752;-0.22;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;6;0.5;0;-0.5;0;0;1.07;0.87;1.09;1.01;0.099331;0.2;75;1;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;7;0.5;0;-0.5;0;0;0;1.07;0.87;0.646667;0.464495;-1.07;75;1;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;8;0.5;0;-0.5;0;0;0;0;1.07;0.356667;0.504403;0;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;9;0.5;0;-0.5;0;0;0;0;0;0;0;0;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;10;0.5;0;-0.5;0;0;0;0;0;0;0;0;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;11;0.5;0;-0.5;0;0;0;0;0;0;0;0;75;0;0;SUPP;%
+s40_reduction;S040 Achat;Réduction de coût;2025;12;0.5;0;-0.5;0;0;0;0;0;0;0;0;75;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;1;98;98.8;0.8;100.816327;1;98.8;98.8;98.8;98.8;0;0;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;2;98;98.68;0.68;100.693878;1;98.8;98.8;98.8;98.8;0;0;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;3;98;98.7;0.7;100.714286;1;98.68;98.8;98.8;98.76;0.056569;-0.12;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;4;98;99;1;101.020408;1;98.7;98.68;98.8;98.726667;0.052493;0.02;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;5;98;99;1;101.020408;1;99;98.7;98.68;98.793333;0.146363;0.3;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;6;98;98.6;0.6;100.612245;1;99;99;98.7;98.9;0.141421;0;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;7;98;99;1;101.020408;1;98.6;99;99;98.866667;0.188562;-0.4;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;8;98;99;1;101.020408;1;99;98.6;99;98.866667;0.188562;0.4;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;9;98;98.61;0.61;100.622449;1;99;99;98.6;98.866667;0.188562;0;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;10;98;98.61;0.61;100.622449;1;98.61;99;99;98.87;0.183848;-0.39;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;11;98;98.62;0.62;100.632653;1;98.61;98.61;99;98.74;0.183848;0;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2024;12;98;99.07;1.07;101.091837;1;98.62;98.61;98.61;98.613333;0.004714;0.01;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;1;98;98.6;0.6;100.612245;1;99.07;98.62;98.61;98.766667;0.214528;0.45;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;2;98;98.28;0.28;100.285714;1;98.6;99.07;98.62;98.763333;0.217;-0.47;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;3;98;98.75;0.75;100.765306;1;98.28;98.6;99.07;98.65;0.324448;-0.32;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;4;98;98.75;0.75;100.765306;1;98.75;98.28;98.6;98.543333;0.196016;0.47;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;5;98;99.06;1.06;101.081633;1;98.75;98.75;98.28;98.593333;0.22156;0;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;6;98;99.37;1.37;101.397959;1;99.06;98.75;98.75;98.853333;0.146135;0.31;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;7;98;99.53;1.53;101.561224;1;99.37;99.06;98.75;99.06;0.253114;0.31;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;8;98;0;-98;0;0;99.53;99.37;99.06;99.32;0.195107;0.16;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;9;98;0;-98;0;0;0;99.53;99.37;66.3;46.881225;-99.53;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;10;98;0;-98;0;0;0;0;99.53;33.176667;46.918892;0;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;11;98;0;-98;0;0;0;0;0;0;0;0;76;0;0;SUPP;%
+s40_termin;S040 Achat;Termintreue (Respect des délais);2025;12;98;0;-98;0;0;0;0;0;0;0;0;76;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;1;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;2;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;3;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;4;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;5;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;6;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;7;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;8;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;9;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;10;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;11;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2024;12;0;0;0;;1;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;1;100;90;-10;90;0;0;0;0;0;0;0;77;1;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;2;100;90;-10;90;0;90;0;0;30;42.426407;90;77;1;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;3;100;90;-10;90;0;90;90;0;60;42.426407;0;77;1;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;4;100;90;-10;90;0;90;90;90;90;0;0;77;1;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;5;100;90;-10;90;0;90;90;90;90;0;0;77;1;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;6;100;90;-10;90;0;90;90;90;90;0;0;77;1;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;7;100;90;-10;90;0;90;90;90;90;0;0;77;1;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;8;100;0;-100;0;0;90;90;90;90;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;9;100;0;-100;0;0;0;90;90;60;42.426407;-90;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;10;100;0;-100;0;0;0;0;90;30;42.426407;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;11;100;0;-100;0;0;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_audit_acces;S050 IT;Audit des accès;2025;12;100;0;-100;0;0;0;0;0;0;0;0;77;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;1;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;2;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;3;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;4;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;5;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;6;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;7;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;8;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;9;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;10;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;11;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2024;12;0;0;0;;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;1;100;100;0;100;1;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;2;100;100;0;100;1;100;0;0;33.333333;47.140452;100;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;3;100;100;0;100;1;100;100;0;66.666667;47.140452;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;4;100;100;0;100;1;100;100;100;100;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;5;100;100;0;100;1;100;100;100;100;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;6;100;100;0;100;1;100;100;100;100;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;7;100;100;0;100;1;100;100;100;100;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;8;100;0;-100;0;0;100;100;100;100;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;9;100;0;-100;0;0;0;100;100;66.666667;47.140452;-100;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;10;100;0;-100;0;0;0;0;100;33.333333;47.140452;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;11;100;0;-100;0;0;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_chif_donne;S050 IT;Chiffrement des données;2025;12;100;0;-100;0;0;0;0;0;0;0;0;78;0;0;SUPP;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;1;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;2;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;3;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;4;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;5;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;6;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;7;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;8;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;9;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;10;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;11;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2024;12;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;1;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;2;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;3;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;4;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;5;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;6;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;7;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;8;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;9;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;10;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;11;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_confomite;S050 IT;Pas de non-conformité majeure;2025;12;0;0;0;;1;0;0;0;0;0;0;79;0;0;INF;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;1;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;2;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;3;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;4;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;5;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;6;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;7;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;8;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;9;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;10;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;11;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2024;12;0;0;0;;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;1;100;100;0;100;1;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;2;100;100;0;100;1;100;0;0;33.333333;47.140452;100;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;3;100;100;0;100;1;100;100;0;66.666667;47.140452;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;4;100;100;0;100;1;100;100;100;100;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;5;100;100;0;100;1;100;100;100;100;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;6;100;100;0;100;1;100;100;100;100;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;7;100;100;0;100;1;100;100;100;100;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;8;100;0;-100;0;0;100;100;100;100;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;9;100;0;-100;0;0;0;100;100;66.666667;47.140452;-100;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;10;100;0;-100;0;0;0;0;100;33.333333;47.140452;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;11;100;0;-100;0;0;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_data_sec;S050 IT;Sécurité des données (Data Security);2025;12;100;0;-100;0;0;0;0;0;0;0;0;80;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;1;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;2;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;3;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;4;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;5;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;6;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;7;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;8;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;9;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;10;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;11;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2024;12;0;0;0;;1;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;1;100;23;-77;23;0;0;0;0;0;0;0;81;1;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;2;100;23;-77;23;0;23;0;0;7.666667;10.842304;23;81;1;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;3;100;23;-77;23;0;23;23;0;15.333333;10.842304;0;81;1;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;4;100;25;-75;25;0;23;23;23;23;0;0;81;1;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;5;100;31;-69;31;0;25;23;23;23.666667;0.942809;2;81;1;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;6;100;31;-69;31;0;31;25;23;26.333333;3.399346;6;81;1;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;7;100;31;-69;31;0;31;31;25;29;2.828427;0;81;1;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;8;100;0;-100;0;0;31;31;31;31;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;9;100;0;-100;0;0;0;31;31;20.666667;14.61354;-31;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;10;100;0;-100;0;0;0;0;31;10.333333;14.61354;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;11;100;0;-100;0;0;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_form_cyber;S050 IT;Formation à la cybersécurité;2025;12;100;0;-100;0;0;0;0;0;0;0;0;81;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;1;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;2;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;3;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;4;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;5;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;6;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;7;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;8;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;9;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;10;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;11;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2024;12;0;0;0;;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;1;100;100;0;100;1;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;2;100;100;0;100;1;100;0;0;33.333333;47.140452;100;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;3;100;100;0;100;1;100;100;0;66.666667;47.140452;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;4;100;100;0;100;1;100;100;100;100;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;5;100;100;0;100;1;100;100;100;100;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;6;100;100;0;100;1;100;100;100;100;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;7;100;100;0;100;1;100;100;100;100;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;8;100;0;-100;0;0;100;100;100;100;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;9;100;0;-100;0;0;0;100;100;66.666667;47.140452;-100;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;10;100;0;-100;0;0;0;0;100;33.333333;47.140452;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;11;100;0;-100;0;0;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_fre_rep;S050 IT;La fréquence de replication et backup;2025;12;100;0;-100;0;0;0;0;0;0;0;0;82;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;1;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;2;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;3;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;4;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;5;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;6;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;7;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;8;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;9;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;10;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;11;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2024;12;0;0;0;;1;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;1;100;90;-10;90;0;0;0;0;0;0;0;83;1;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;2;100;90;-10;90;0;90;0;0;30;42.426407;90;83;1;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;3;100;90;-10;90;0;90;90;0;60;42.426407;0;83;1;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;4;100;90;-10;90;0;90;90;90;90;0;0;83;1;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;5;100;90;-10;90;0;90;90;90;90;0;0;83;1;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;6;100;90;-10;90;0;90;90;90;90;0;0;83;1;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;7;100;90;-10;90;0;90;90;90;90;0;0;83;1;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;8;100;0;-100;0;0;90;90;90;90;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;9;100;0;-100;0;0;0;90;90;60;42.426407;-90;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;10;100;0;-100;0;0;0;0;90;30;42.426407;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;11;100;0;-100;0;0;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_mail_securt;S050 IT;Sécurité des emails (Mailing Security);2025;12;100;0;-100;0;0;0;0;0;0;0;0;83;0;0;SUPP;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;1;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;2;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;3;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;4;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;5;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;6;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;7;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;8;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;9;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;10;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;11;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2024;12;0;0;0;;1;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;1;100;90;-10;90;0;0;0;0;0;0;0;84;1;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;2;100;90;-10;90;0;90;0;0;30;42.426407;90;84;1;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;3;100;90;-10;90;0;90;90;0;60;42.426407;0;84;1;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;4;100;90;-10;90;0;90;90;90;90;0;0;84;1;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;5;100;90;-10;90;0;90;90;90;90;0;0;84;1;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;6;100;90;-10;90;0;90;90;90;90;0;0;84;1;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;7;100;90;-10;90;0;90;90;90;90;0;0;84;1;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;8;100;0;-100;0;0;90;90;90;90;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;9;100;0;-100;0;0;0;90;90;60;42.426407;-90;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;10;100;0;-100;0;0;0;0;90;30;42.426407;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;11;100;0;-100;0;0;0;0;0;0;0;0;84;0;0;=;%
+s50_protection;S050 IT;Protection des pièces jointes;2025;12;100;0;-100;0;0;0;0;0;0;0;0;84;0;0;=;%
+s50_test_restau;S050 IT;Test de restauration;2024;1;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;2;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;3;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;4;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;5;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;6;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;7;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;8;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;9;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;10;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;11;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2024;12;0;0;0;;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;1;100;100;0;100;1;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;2;100;100;0;100;1;100;0;0;33.333333;47.140452;100;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;3;100;100;0;100;1;100;100;0;66.666667;47.140452;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;4;100;100;0;100;1;100;100;100;100;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;5;100;100;0;100;1;100;100;100;100;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;6;100;100;0;100;1;100;100;100;100;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;7;100;100;0;100;1;100;100;100;100;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;8;100;0;-100;0;0;100;100;100;100;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;9;100;0;-100;0;0;0;100;100;66.666667;47.140452;-100;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;10;100;0;-100;0;0;0;0;100;33.333333;47.140452;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;11;100;0;-100;0;0;0;0;0;0;0;0;85;0;0;SUPP;%
+s50_test_restau;S050 IT;Test de restauration;2025;12;100;0;-100;0;0;0;0;0;0;0;0;85;0;0;SUPP;%
+X;C010 Commercial;X;2022;1;500;450;-50;90;1;450;450;450;450;0;0;10;0;0;<;kg
+X;C010 Commercial;X;2022;2;500;400;-100;80;1;450;450;450;450;0;0;10;0;0;<;kg
+X;C010 Commercial;X;2022;3;500;200;-300;40;1;400;450;450;433.333333;23.570226;-50;10;0;0;<;kg
+X;C010 Commercial;X;2022;4;500;250;-250;50;1;200;400;450;350;108.012345;-200;10;0;0;<;kg
+X;C010 Commercial;X;2022;5;500;377;-123;75.4;1;250;200;400;283.333333;84.983659;50;10;0;0;<;kg
+X;C010 Commercial;X;2022;6;500;466;-34;93.2;1;377;250;200;275.666667;74.504288;127;10;0;0;<;kg
+X;C010 Commercial;X;2022;7;500;254;-246;50.8;1;466;377;250;364.333333;88.635333;89;10;0;0;<;kg
+X;C010 Commercial;X;2022;8;500;96;-404;19.2;1;254;466;377;365.666667;86.918864;-212;10;0;0;<;kg
+X;C010 Commercial;X;2022;9;500;477;-23;95.4;1;96;254;466;272;151.587159;-158;10;0;0;<;kg
+X;C010 Commercial;X;2022;10;500;168;-332;33.6;1;477;96;254;275.666667;156.295305;381;10;0;0;<;kg
+X;C010 Commercial;X;2022;11;500;389;-111;77.8;1;168;477;96;247;165.269477;-309;10;0;0;<;kg
+X;C010 Commercial;X;2022;12;500;411;-89;82.2;1;389;168;477;344.666667;129.985469;221;10;0;0;<;kg
+X;C010 Commercial;X;2026;1;100;10;-90;10;0;411;389;168;322.666667;109.734022;22;10;1;0;;
+X;C010 Commercial;X;2026;2;100;90;-10;90;0;10;411;389;270;184.067017;-401;10;0;0;;
+X;C010 Commercial;X;2026;3;100;50;-50;50;0;90;10;411;170.333333;173.282685;80;10;0;0;;
+X;C010 Commercial;X;2026;4;150;100;-50;66.666667;0;50;90;10;50;32.659863;-40;10;0;0;;
+X;C010 Commercial;X;2026;5;100;95;-5;95;0;100;50;90;80;21.602469;50;10;0;0;;
+X;C010 Commercial;X;2026;6;160;150;-10;93.75;0;95;100;50;81.666667;22.484563;-5;10;0;0;;
+y;;;2026;1;95;;;;;;;;;;;86;0;0;;
+y;;;2026;2;95;;;;;;;;;;;86;0;0;;
+y;;;2026;3;95;;;;;;;;;;;86;0;0;;
+y;;;2026;4;95;;;;;;;;;;;86;0;0;;
+y;;;2026;5;95;;;;;;;;;;;86;0;0;;
+y;;;2026;6;95;;;;;;;;;;;86;0;0;;
+y;;;2026;7;95;;;;;;;;;;;86;0;0;;
+y;;;2026;8;95;;;;;;;;;;;86;0;0;;
+y;;;2026;9;95;;;;;;;;;;;86;0;0;;
+y;;;2026;10;95;;;;;;;;;;;86;0;0;;
+y;;;2026;11;95;;;;;;;;;;;86;0;0;;
+y;;;2026;12;95;;;;;;;;;;;86;0;0;;

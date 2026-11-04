@@ -1,0 +1,27 @@
+{
+  "version": "202605311418",
+  "model_name": "anomaly_isolation_forest",
+  "model_path": "C:\\Users\\77ray\\OneDrive\\Documents\\Bureau\\AAF\\backend\\models\\anomaly_isolation_forest.pkl",
+  "rows_processed": 1797,
+  "features": [
+    "processus_enc",
+    "signe_enc",
+    "unite_enc",
+    "Objectif",
+    "Realisation",
+    "Ecart",
+    "taux_realisation",
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "rolling_mean",
+    "rolling_std",
+    "tendance",
+    "plan_action_open_count",
+    "plan_action_late_count"
+  ],
+  "contamination": 0.05,
+  "anomalies_detected": 89,
+  "score_min": -0.19762159486809944,
+  "score_max": 0.29110961673280866
+}

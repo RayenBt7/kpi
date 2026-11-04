@@ -1,0 +1,50 @@
+{
+  "version": "202606241206",
+  "version_path": "C:\\Users\\77ray\\OneDrive\\Documents\\Bureau\\AAF\\backend\\models",
+  "rows_processed": 1800,
+  "features": [
+    "processus_enc",
+    "indicateur_enc",
+    "signe_enc",
+    "unite_enc",
+    "Annee",
+    "Mois",
+    "Objectif",
+    "Realisation",
+    "Ecart",
+    "taux_realisation",
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "rolling_mean",
+    "rolling_std",
+    "tendance",
+    "plan_action_open_count",
+    "plan_action_late_count",
+    "performance_gap",
+    "volatility_signal",
+    "anomaly_signal"
+  ],
+  "metrics": {
+    "risk_level_accuracy": 0.9888888888888889,
+    "suggestion_accuracy": 0.9972222222222222
+  },
+  "labels": {
+    "risk_level": [
+      "High",
+      "Low",
+      "Medium"
+    ],
+    "suggestion_category": [
+      "anomaly_detected",
+      "high_volatility",
+      "late_actions",
+      "normal_followup",
+      "performance_gap"
+    ]
+  },
+  "models": {
+    "risk_level_classifier": "C:\\Users\\77ray\\OneDrive\\Documents\\Bureau\\AAF\\backend\\models\\risk_level_classifier.pkl",
+    "suggestion_classifier": "C:\\Users\\77ray\\OneDrive\\Documents\\Bureau\\AAF\\backend\\models\\suggestion_classifier.pkl"
+  }
+}

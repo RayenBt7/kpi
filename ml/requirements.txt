@@ -1,0 +1,14 @@
+python-dotenv
+pyodbc
+pandas
+pyarrow
+numpy
+scikit-learn
+joblib
+matplotlib
+imbalanced-learn
+pyautogui
+xgboost
+pydantic
+fastapi
+uvicorn

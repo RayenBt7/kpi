@@ -1,0 +1,508 @@
+.users-processus {
+  --up-bg: #f8fafc;
+  --up-card: #ffffff;
+  --up-text: #0f172a;
+  --up-muted: #64748b;
+  --up-border: #dbe3ef;
+  --up-accent: #0284c7;
+  --up-accent-soft: rgba(2, 132, 199, 0.12);
+  --up-success: #059669;
+  --up-success-soft: rgba(5, 150, 105, 0.14);
+  --up-error: #dc2626;
+  --up-error-soft: rgba(220, 38, 38, 0.12);
+
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  color: var(--up-text);
+}
+
+.users-processus.theme-dark {
+  --up-bg: #0f172a;
+  --up-card: #111827;
+  --up-text: #e2e8f0;
+  --up-muted: #94a3b8;
+  --up-border: #334155;
+  --up-accent: #38bdf8;
+  --up-accent-soft: rgba(56, 189, 248, 0.16);
+  --up-success: #34d399;
+  --up-success-soft: rgba(52, 211, 153, 0.18);
+  --up-error: #fca5a5;
+  --up-error-soft: rgba(248, 113, 113, 0.2);
+}
+
+.users-processus-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.1rem 1.3rem;
+  border: 1px solid var(--up-border);
+  border-radius: 12px;
+  background: var(--up-card);
+}
+
+.users-processus-header h2 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.users-processus-header p {
+  margin: 0.45rem 0 0;
+  color: var(--up-muted);
+  font-size: 0.9rem;
+}
+
+.users-processus-refresh-btn {
+  border: 1px solid var(--up-border);
+  background: transparent;
+  color: var(--up-text);
+  border-radius: 8px;
+  padding: 0.55rem 0.9rem;
+  font-size: 0.86rem;
+  cursor: pointer;
+  transition: all 0.16s ease;
+}
+
+.users-processus-refresh-btn:hover:not(:disabled) {
+  border-color: var(--up-accent);
+  background: var(--up-accent-soft);
+}
+
+.users-processus-refresh-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.users-processus-alert {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  border: 1px solid var(--up-border);
+  border-radius: 10px;
+  padding: 0.7rem 0.9rem;
+}
+
+.users-processus-alert button {
+  border: none;
+  background: transparent;
+  color: inherit;
+  font-size: 1.15rem;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.users-processus-alert-error {
+  color: var(--up-error);
+  background: var(--up-error-soft);
+  border-color: var(--up-error);
+}
+
+.users-processus-alert-success {
+  color: var(--up-success);
+  background: var(--up-success-soft);
+  border-color: var(--up-success);
+}
+
+.users-processus-filters {
+  display: grid;
+  grid-template-columns: minmax(220px, 280px) minmax(260px, 1fr);
+  gap: 0.8rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--up-border);
+  border-radius: 12px;
+  background: var(--up-card);
+}
+
+.users-processus-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.77rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--up-muted);
+  font-weight: 600;
+}
+
+.users-processus-filter-grow {
+  min-width: 220px;
+}
+
+.users-processus-filter select,
+.users-processus-filter input {
+  border: 1px solid var(--up-border);
+  border-radius: 8px;
+  padding: 0.56rem 0.72rem;
+  background: var(--up-bg);
+  color: var(--up-text);
+  font-size: 0.88rem;
+}
+
+.users-processus-filter select:focus,
+.users-processus-filter input:focus {
+  outline: none;
+  border-color: var(--up-accent);
+  box-shadow: 0 0 0 2px var(--up-accent-soft);
+}
+
+.users-processus-loading,
+.users-processus-empty {
+  border: 1px dashed var(--up-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--up-muted);
+  background: var(--up-card);
+}
+
+.users-processus-groups {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.users-processus-card {
+  border: 1px solid var(--up-border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--up-card);
+}
+
+.users-processus-card-header {
+  padding: 0.95rem 1rem;
+  border-bottom: 1px solid var(--up-border);
+  background: var(--up-accent-soft);
+}
+
+.users-processus-card-header h3 {
+  margin: 0;
+  font-size: 1.02rem;
+}
+
+.users-processus-card-meta {
+  margin-top: 0.45rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  color: var(--up-muted);
+  font-size: 0.82rem;
+}
+
+.users-processus-table-wrap {
+  overflow-x: auto;
+}
+
+.users-processus-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.users-processus-table th,
+.users-processus-table td {
+  text-align: left;
+  padding: 0.72rem 0.76rem;
+  border-bottom: 1px solid var(--up-border);
+  vertical-align: top;
+  font-size: 0.88rem;
+}
+
+.users-processus-table th {
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--up-muted);
+  background: var(--up-bg);
+}
+
+.users-processus-table tbody tr:hover {
+  background: var(--up-accent-soft);
+}
+
+.users-processus-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.users-processus-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.users-processus-chip {
+  border-radius: 999px;
+  border: 1px solid var(--up-border);
+  padding: 0.14rem 0.48rem;
+  font-size: 0.77rem;
+  background: var(--up-bg);
+}
+
+.users-processus-muted {
+  color: var(--up-muted);
+  font-style: italic;
+}
+
+.users-processus-role {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 600;
+}
+
+.users-processus-role-select {
+  width: 100%;
+  min-width: 170px;
+  max-width: 240px;
+  border: 1px solid var(--up-border);
+  border-radius: 8px;
+  padding: 0.45rem 0.55rem;
+  background: var(--up-bg);
+  color: var(--up-text);
+  font-size: 0.84rem;
+}
+
+.users-processus-role-select:focus {
+  outline: none;
+  border-color: var(--up-accent);
+  box-shadow: 0 0 0 2px var(--up-accent-soft);
+}
+
+.users-processus-role-select:disabled {
+  opacity: 0.65;
+  cursor: wait;
+}
+
+.users-processus-process-role-cell {
+  min-width: 220px;
+  background: rgba(2, 132, 199, 0.06);
+  vertical-align: middle;
+}
+
+.users-processus-process-name-cell {
+  min-width: 170px;
+  font-weight: 700;
+  color: var(--up-text);
+  background: rgba(2, 132, 199, 0.04);
+  vertical-align: middle;
+}
+
+.users-processus-check {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.05rem;
+  height: 1.05rem;
+  border-radius: 999px;
+  color: var(--up-success);
+  background: var(--up-success-soft);
+  font-size: 0.72rem;
+  line-height: 1;
+}
+
+.users-processus-edit-btn {
+  min-width: 78px;
+  border: 1px solid var(--up-border);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--up-text);
+  font-size: 0.83rem;
+  font-weight: 600;
+  padding: 0.36rem 0.58rem;
+  cursor: pointer;
+  transition: all 0.16s ease;
+}
+
+.users-processus-edit-btn:hover:not(:disabled) {
+  border-color: var(--up-accent);
+  background: var(--up-accent-soft);
+}
+
+.users-processus-edit-btn.is-active {
+  border-color: var(--up-success);
+  color: var(--up-success);
+  background: var(--up-success-soft);
+}
+
+.users-processus-edit-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+@media (max-width: 1024px) {
+  .users-processus-filters {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .users-processus-header {
+    flex-direction: column;
+  }
+
+  .users-processus-refresh-btn {
+    width: 100%;
+  }
+
+  .users-processus-table th,
+  .users-processus-table td {
+    font-size: 0.82rem;
+    padding: 0.6rem;
+  }
+}
+.delete-btn {
+  background-color: #ffe5e5;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.delete-btn:hover {
+  background-color: #ff4d4d;
+  transform: scale(1.1);
+}
+
+.delete-icon {
+  color: #cc0000;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.delete-btn:hover .delete-icon {
+  color: white;
+}
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  padding: 1rem;
+  background: rgba(15, 23, 42, 0.72);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  animation: usersProcessusOverlayIn 0.18s ease-out;
+}
+
+.modal-content {
+  width: min(420px, 100%);
+  border: 1px solid rgba(248, 113, 113, 0.22);
+  border-radius: 14px;
+  padding: 1.35rem;
+  background: var(--up-card);
+  color: var(--up-text);
+  text-align: center;
+  box-shadow: 0 26px 70px rgba(0, 0, 0, 0.35);
+  animation: usersProcessusModalIn 0.2s ease-out;
+}
+
+.modal-danger-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.1rem;
+  height: 3.1rem;
+  margin-bottom: 0.8rem;
+  border-radius: 999px;
+  color: #dc2626;
+  background: rgba(220, 38, 38, 0.12);
+}
+
+.modal-content h3 {
+  margin: 0;
+  font-size: 1.18rem;
+  font-weight: 800;
+}
+
+.modal-content p {
+  margin: 0.65rem auto 0;
+  max-width: 31ch;
+  color: var(--up-muted);
+  font-size: 0.94rem;
+  line-height: 1.55;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 0.7rem;
+  margin-top: 1.35rem;
+}
+
+.modal-btn {
+  min-width: 120px;
+  border: 1px solid transparent;
+  border-radius: 9px;
+  padding: 0.62rem 0.95rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.16s ease, box-shadow 0.16s ease, background 0.16s ease, border-color 0.16s ease;
+}
+
+.modal-btn:hover {
+  transform: translateY(-1px);
+}
+
+.modal-btn-cancel {
+  border-color: var(--up-border);
+  background: var(--up-bg);
+  color: var(--up-text);
+}
+
+.modal-btn-cancel:hover {
+  border-color: var(--up-accent);
+  background: var(--up-accent-soft);
+}
+
+.modal-btn-delete {
+  background: #dc2626;
+  color: #ffffff;
+  box-shadow: 0 12px 28px rgba(220, 38, 38, 0.24);
+}
+
+.modal-btn-delete:hover {
+  background: #b91c1c;
+  box-shadow: 0 16px 34px rgba(220, 38, 38, 0.3);
+}
+
+@keyframes usersProcessusOverlayIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes usersProcessusModalIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@media (max-width: 480px) {
+  .modal-content {
+    padding: 1.15rem;
+  }
+
+  .modal-buttons {
+    flex-direction: column-reverse;
+  }
+
+  .modal-btn {
+    width: 100%;
+  }
+}

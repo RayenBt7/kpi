@@ -1,0 +1,46 @@
+{
+  "version": "202606241206",
+  "version_path": "C:\\Users\\77ray\\OneDrive\\Documents\\Bureau\\AAF\\backend\\models",
+  "rows_processed": 1673,
+  "features": [
+    "indicateur_enc",
+    "signe_enc",
+    "unite_enc",
+    "Annee",
+    "Mois",
+    "Objectif",
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "rolling_mean",
+    "rolling_std",
+    "tendance"
+  ],
+  "anomaly_features": [
+    "processus_enc",
+    "signe_enc",
+    "unite_enc",
+    "Objectif",
+    "Realisation",
+    "Ecart",
+    "taux_realisation",
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "rolling_mean",
+    "rolling_std",
+    "tendance",
+    "plan_action_open_count",
+    "plan_action_late_count"
+  ],
+  "metrics": {
+    "regression_mae": 117.0343782236353,
+    "regression_r2": 0.9196027427558615,
+    "classification_accuracy": 0.9343283582089552
+  },
+  "models": {
+    "random_forest_regressor": "C:\\Users\\77ray\\OneDrive\\Documents\\Bureau\\AAF\\backend\\models\\random_forest_regressor.pkl",
+    "random_forest_classifier": "C:\\Users\\77ray\\OneDrive\\Documents\\Bureau\\AAF\\backend\\models\\random_forest_classifier.pkl",
+    "anomaly_isolation_forest": "C:\\Users\\77ray\\OneDrive\\Documents\\Bureau\\AAF\\backend\\models\\anomaly_isolation_forest.pkl"
+  }
+}
